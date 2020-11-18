@@ -10,9 +10,9 @@
 
 **使用说明：**
 
-根据需要访问对应文件夹，使用前请仔细阅读每个文件夹的README.md文件。如果您对此项目有任何建议，欢迎交流。
+根据需要访问对应文件夹，使用前请仔细阅读每个文件夹的README.md文件。如果您对此项目有任何建议，欢迎交流~
 
-联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
+联系方式 & 加入我们：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
 
 -----
 
