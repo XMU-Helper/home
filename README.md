@@ -15,7 +15,7 @@
 参考：[https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University](https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University)
 
 **注意事项：**
-1. 以下内容为厦门大学校内常用网站整理，主要用于经济学院与亚南院2020级新生迎新工作，同时欢迎其他同学参考使用，如需引用请附上链接和作者。
+1. 以下内容为厦门大学校内常用网站整理，主要用于经济学院与王亚南经济研究院2020级新生迎新工作，同时欢迎其他同学参考使用，转载请附上链接和作者。
 2. 部分服务无特定网站，请前往[师生综合服务门户](http://i.xmu.edu.cn)进行查询。
 3. 一切网站信息以最新通知为准。
 4. 本文档禁止用于任何商业用途。
