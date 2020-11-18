@@ -10,7 +10,22 @@
 
 -----
 
+## 本科生学业指南
+
+非常建议仔细阅读：[厦门大学2018本科生学业指南](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)，包括教务服务、学习、考核、成绩、专业、学习资源、毕业等内容，详细而全面：
+- 第一章：教务服务。包括教务处学生业务、本科生导师制、公共教室资源、重要网站&系统、微信版教务服务、教育质量保障。
+- 第二章：学习。包括三学期制、培养方案、完费报到注册、年度学籍信息检查、选课、请假、免听、休学/保留学籍、复学、出国出境交流学习、转学、退学、学习证明办理。
+- 第三章：考核。包括考核与重修、缓考、大学英语四六级、雅思考试、托福考试、普通话考试、考试违规处理。
+- 第四章：成绩。包括成绩与绩点、成绩查询、转专业成绩转换、交流成绩转换、辅修成绩转换、创新学分、成绩有误变更方式。
+- 第五章：专业。包括大类培养大类分流、教学改革试验班、转专业、辅修（双学位）教育。
+- 第六章：学习资源。包括国（境）外校际交流、联合培养项、境内校际交流项目、厦大通识教育、本科生早期科研训练平台、学业竞赛平台。
+- 第七章：毕业。包括推荐免试攻读硕士学位研究生、毕业图像采集及校对、主修专业学业审查、辅修专业学业审查。
+- 附录一：重要列表。包括院系教务服务联系方式、本科生学习重要环节、公共教室地理位置示意图、国（境）外校际交流项目列表、优秀本科生公派出国留学项目（CSC）列表、SAF海外名校交流学生项目列表、境内校际交流项目列表、2018年校级学业竞赛列表。
+- 附录二：学姐学长经验谈。包括谈“大学学习生活”、谈“校际交流” 、谈“辅修（双学位）教育”、谈“早期科研训练”、谈“学业竞赛”、谈“拔尖计划”、谈“推荐免试攻读硕士学位研究生”。
+
 ## 常用网站合集
+
+包括学生服务、教学相关、校内生活、信息与网络、密码管理、图书馆服务、资源预约、后勤服务、财务信息、贫困助学、健康统计、毕业相关、外事事务、特殊网站等板块。
 
 参考：[https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University](https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University)
 
@@ -74,19 +89,6 @@
 - 大中巴车辆及工程车辆入校申请 [https://baowei.xmu.edu.cn/2012/0427/c569a3775/page.htm](https://baowei.xmu.edu.cn/2013/1014/c566a3400/page.htm)
 - 同学，帮帮帮 [http://i.xmu.edu.cn/EIP/cooperative/openCooperative.htm?flowId=2c9bcbc871e8d4bb017234cd0bf1678a](http://i.xmu.edu.cn/EIP/cooperative/openCooperative.htm?flowId=2c9bcbc871e8d4bb017234cd0bf1678a)
 
-### 财务信息
-- 校园一卡通线上充值说明 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
-- 学生网上缴费平台 [https://cwcxsjf.xmu.edu.cn/wsyh/main.aspx?ReferUrl=http://ids.xmu.edu.cn/authserver](https://cwcxsjf.xmu.edu.cn/wsyh/main.aspx?ReferUrl=http://ids.xmu.edu.cn/authserver)
-
-### 贫困助学
-- 学生困难认定 [https://xmuxg.xmu.edu.cn/app/8](https://xmuxg.xmu.edu.cn/app/8)
-- 学生助学金申请 [https://xmuxg.xmu.edu.cn/app/168](https://xmuxg.xmu.edu.cn/app/168)
-- 悦读力量 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
-
-### 健康统计
-- 假期在校学生信息填报 [https://xmuxg.xmu.edu.cn/app/206](https://xmuxg.xmu.edu.cn/app/206)
-- 学生每日健康打卡 [https://xmuxg.xmu.edu.cn/app/214](https://xmuxg.xmu.edu.cn/app/214)
-
 ### 信息与网络
 - 信息与网络中心 [https://net.xmu.edu.cn](https://net.xmu.edu.cn)
 - 微软校园正版化项目 [http://microsoft.xmu.edu.cn](http://microsoft.xmu.edu.cn)
@@ -122,17 +124,30 @@
 - 自钦楼学生活动中心使用申请表 [https://tw.xmu.edu.cn/2016/0421/c3478a172267/page.htm](https://tw.xmu.edu.cn/2016/0421/c3478a172267/page.htm)
 - 自钦楼学生活动中心物资使用申请表 [https://tw.xmu.edu.cn/2014/0710/c3478a72176/page.htm](https://tw.xmu.edu.cn/2014/0710/c3478a72176/page.htm)
 
-### 毕业相关
-- 博硕士论文提交 [https://etd.xmu.edu.cn](https://etd.xmu.edu.cn)
-- 研究生毕业证书遗失后毕业证明书办理流程 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
-- 研究生学位证书遗失后学位证明书办理流程 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
-- 延期毕业证明（适用交流项目） [https://jwc.xmu.edu.cn/2017/0413/c2161a271964/page.htm](https://jwc.xmu.edu.cn/2017/0413/c2161a271964/page.htm)
-
 ### 后勤服务
 - 后勤大厅之我要报修 [https://xdhq.xmu.edu.cn/pc?sid=https://xdhq.xmu.edu.cn?sid=fd2d96b6-95e0-4b48-a81b-2598ed456104](https://xdhq.xmu.edu.cn/pc?sid=https://xdhq.xmu.edu.cn?sid=fd2d96b6-95e0-4b48-a81b-2598ed456104)
 - 后勤大厅之服务监督 [https://xdhq.xmu.edu.cn/pc/?typeName=advisory](https://xdhq.xmu.edu.cn/pc/?typeName=advisory)
 - 后勤大厅之生活便民 [https://hqjt.xmu.edu.cn/13345/list.htm](https://hqjt.xmu.edu.cn/13345/list.htm)
 - 后勤服务之智能车卡办理 [https://hqjt.xmu.edu.cn/2012/0613/c13161a232301/page.htm](https://hqjt.xmu.edu.cn/2012/0613/c13161a232301/page.htm)
+
+### 财务信息
+- 校园一卡通线上充值说明 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
+- 学生网上缴费平台 [https://cwcxsjf.xmu.edu.cn/wsyh/main.aspx?ReferUrl=http://ids.xmu.edu.cn/authserver](https://cwcxsjf.xmu.edu.cn/wsyh/main.aspx?ReferUrl=http://ids.xmu.edu.cn/authserver)
+
+### 贫困助学
+- 学生困难认定 [https://xmuxg.xmu.edu.cn/app/8](https://xmuxg.xmu.edu.cn/app/8)
+- 学生助学金申请 [https://xmuxg.xmu.edu.cn/app/168](https://xmuxg.xmu.edu.cn/app/168)
+- 悦读力量 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
+
+### 健康统计
+- 假期在校学生信息填报 [https://xmuxg.xmu.edu.cn/app/206](https://xmuxg.xmu.edu.cn/app/206)
+- 学生每日健康打卡 [https://xmuxg.xmu.edu.cn/app/214](https://xmuxg.xmu.edu.cn/app/214)
+
+### 毕业相关
+- 博硕士论文提交 [https://etd.xmu.edu.cn](https://etd.xmu.edu.cn)
+- 研究生毕业证书遗失后毕业证明书办理流程 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
+- 研究生学位证书遗失后学位证明书办理流程 [http://i.xmu.edu.cn](http://i.xmu.edu.cn)
+- 延期毕业证明（适用交流项目） [https://jwc.xmu.edu.cn/2017/0413/c2161a271964/page.htm](https://jwc.xmu.edu.cn/2017/0413/c2161a271964/page.htm)
 
 ### 外事服务
 - 国家公派留学人员（研究生项目）回国报到流程 [https://gs.xmu.edu.cn/info/1194/1115.htm](https://gs.xmu.edu.cn/info/1194/1115.htm)
