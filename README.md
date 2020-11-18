@@ -1,6 +1,6 @@
 # XMU-Helper
 
-厦门大学最全攻略整理。欢迎更多XMUer参与这项工作！
+厦门大学最全攻略整理。欢迎更多XMUer参与这项工作~
 
 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 
