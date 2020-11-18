@@ -1,6 +1,6 @@
 # XMU-Helper
 
-厦门大学最全攻略整理。受其他高校相关项目启发，创立此项目。欢迎更多XMUer参与这项工作~
+厦门大学最全攻略整理。受其他高校相关项目启发，创立此项目。欢迎更多 XMUer 参与这项工作~
 
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 
@@ -10,9 +10,9 @@
 
 **使用说明：**
 
-根据需要访问对应文件夹，使用前请仔细阅读每个文件夹的README.md文件。如果您对此项目有任何建议，欢迎交流~
+根据需要访问对应文件夹，使用前请仔细阅读每个文件夹的 **README.md** 文件。如果您对此项目有任何建议，欢迎交流~
 
-联系方式 & 加入我们：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
+联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
 
 -----
 
