@@ -3,7 +3,9 @@
 厦门大学最全攻略整理。欢迎更多XMUer参与这项工作！
 
 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
+
 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
+
 贡献者：[sSong2019](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）
 
 -----
