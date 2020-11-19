@@ -8,7 +8,7 @@
 - [体育课目录](https://zhuanlan.zhihu.com/p/110584413)
 - [体育教学部](https://tyjxb.xmu.edu.cn/)
 - [学分秘籍](https://mp.weixin.qq.com/s/DPE594ZeImx-Sb28_cpB4Q)
-- ![厦大体育微信公众号](/厦大体育微信公众号二维码.jpg)
+- 厦大体育微信公众号
 
 ## 体测攻略
 
