@@ -2,8 +2,6 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~
 
-![](http://imgs.logonews.cn/uploads/2020/06/2020061116444729.png)
-
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 
 - 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
