@@ -14,7 +14,7 @@
 
 如果您对此项目有任何建议，欢迎交流~ 联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
 
-如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的Star，您的支持是最好的鼓励~
+如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆Star ，您的支持是最好的鼓励~
 
 -----
 
