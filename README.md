@@ -1,6 +1,6 @@
 # XMU-Helper
 
-厦门大学攻略大全。受其他高校相关项目启发，创立此项目。欢迎更多 XMUer 参与~
+厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，欢迎更多 XMUer 添砖加瓦~
 
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 
