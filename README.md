@@ -12,6 +12,8 @@
 
 根据需要访问对应文件夹，使用前请仔细阅读每个文件夹的 **README.md** 文件。转载内容请附上链接和作者。
 
+如果图片无法显示或者正常下载，可参考 [Github无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464)进行相关配置。
+
 如果您对此项目有任何建议，欢迎交流~ 联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
 
 如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star ，您的支持是对我们最好的鼓励~
