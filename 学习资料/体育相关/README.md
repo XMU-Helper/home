@@ -10,6 +10,8 @@
 - [学分秘籍](https://mp.weixin.qq.com/s/DPE594ZeImx-Sb28_cpB4Q)
 - 厦大体育微信公众号
 
+ <img src="厦大体育微信公众号二维码.jpg" width = "150" height = "150" alt="图片名称" align=right />
+ 
 ![厦大体育微信公众号](厦大体育微信公众号二维码.jpg)
 
 ## 体测攻略
