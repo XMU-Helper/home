@@ -1,4 +1,4 @@
-图书馆相关资源及链接。
+图书馆相关资源及链接，关于图书馆的各种信息均可在 [https://library.xmu.edu.cn](https://library.xmu.edu.cn) 上面查询。
 
 维护者：[rogerchenfz](https://github.com/rogerchenfz)
 
