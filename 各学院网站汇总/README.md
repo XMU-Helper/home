@@ -45,6 +45,7 @@
         <p>王亚南经济研究院：https://wise.xmu.edu.cn/</p>
         <p>邹至庄经济研究中心：https://chowcenter.xmu.edu.cn/</p>
         <p>微信公众号：厦门大学经济学院、厦门大学王亚南经济研究院WISE、厦门大学邹至庄经济研究中心</p>
+        <p>b站：WISESOE</p>
 </details>
 <details>
         <summary>管理学院</summary>
