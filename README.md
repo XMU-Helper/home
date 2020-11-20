@@ -10,9 +10,9 @@
 
 ## 目录
 
-- 学习资料：编程相关、体育相关、公共课等
-- 学校文件：包括校历、学生管理、教学运行、实践教学、创新学分、专业设置与培养方案等
-- 学业竞赛
+- [学习资料](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)：编程相关、体育相关、公共课等
+- [学校文件](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6)：包括校历、学生管理、教学运行、实践教学、创新学分、专业设置与培养方案等
+- [学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)
 - 常见问题
 - 其他内容
 
