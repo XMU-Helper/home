@@ -40,7 +40,7 @@
 
 <details>
         <summary>经济学院</summary>
-        <p>[官网](https://economic.xmu.edu.cn/)</p>
+        <p>官网：https://economic.xmu.edu.cn/</p>
 </details>
 <details>
         <summary>管理学院</summary>
