@@ -10,47 +10,28 @@
 - [厦门大学研究生会](https://yjsh.xmu.edu.cn/)
 
 ## 人文与艺术学部
+
 <details>
-        <summary>第一部分</summary>
-        <p>第一部分内容</p>
+        <summary>**人文学院**</summary>
+        <p>官网</p>
+        <p>团委</p>
         <details>
-            <summary>第二部分</summary>
+            <summary>**新闻传播学院**</summary>
+        <p>官网</p>
+        </details>
+        <summary>**外文学院**</summary>
+        <p>第二部分内容</p>
+        </details>
+        <summary>**艺术学院**</summary>
+        <p>第二部分内容</p>
+        </details>
+        <summary>**海外教育学院**</summary>
+        <p>第二部分内容</p>
+        </details>
+        <summary>**国际学院**</summary>
         <p>第二部分内容</p>
         </details>
 </details>
-
-<details open>
-    <summary><dt>订单中心</dt></summary> 
-    <dd><a href>我的订单</a></dd>
-    <dd><a href>我的活动</a></dd>
-    <dd><a href>评价晒单</a></dd>
-    <dd><a href>购物助手</a></dd>
-</details>
-<details open>
-    <summary><dt>关注中心</dt></summary> 
-    <dd><a href>关注的商品</a></dd>
-    <dd><a href>关注的店铺</a></dd>
-    <dd><a href>关注的专辑</a></dd>
-    <dd><a href>收藏的内容</a></dd>
-</details>
-<details open>
-    <summary><dt>资产中心</dt></summary> 
-    <dd><a href>余额</a></dd>
-    <dd><a href>优惠券</a></dd>
-    <dd><a href>礼品卡</a></dd>
-</details>
-
-### 人文学院
-
-### 新闻传播学院
-
-### 外文学院
-
-### 艺术学院
-
-### 海外教育学院
-
-### 国际学院
 
 经济学院
 
