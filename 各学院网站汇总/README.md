@@ -41,6 +41,7 @@
 <details>
         <summary>经济学院</summary>
         <p>官网：https://economic.xmu.edu.cn/</p>
+        <p>团委：https://jytw.xmu.edu.cn/</p>
 </details>
 <details>
         <summary>管理学院</summary>
@@ -79,7 +80,7 @@
         <p>官网</p>
 </details>
 
-## 社会科学学部
+## 自然科学学部
 
 <details>
         <summary>数学科学学院</summary>
