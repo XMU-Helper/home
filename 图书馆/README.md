@@ -15,13 +15,9 @@
 - [德旺图书馆研讨间预约](https://service.xmulib.org/studyroom)
 - [馆长信箱](https://lib.xmu.edu.cn/ask/question_consult)
 - [馆藏中外文电子图书资源介绍](https://library.xmu.edu.cn/__local/B/84/09/C54ABACC471150037FD63A66156_08111D34_1773F59.pptx?e=.pptx)：[视频](https://www.bilibili.com/video/BV1VA411j7MK)
-- 厦大图书馆微信公众号
+- 厦大图书馆微信公众号 & i学堂XMU微信公众号
 
-![](https://www.57994.com/wp-content/uploads/2019/11/cec4ace184e9b7e674e8.jpg)
-
-- i学堂XMU微信公众号
-
-<img src="i学堂XMU微信公众号二维码.jpg" width = "200" height = "200" alt="i学堂XMU微信公众号二维码.jpg" /><img src="i学堂XMU微信公众号二维码.jpg" width = "200" height = "200" alt="i学堂XMU微信公众号二维码.jpg" />
+![](https://www.57994.com/wp-content/uploads/2019/11/cec4ace184e9b7e674e8.jpg) <img src="i学堂XMU微信公众号二维码.jpg" width = "200" height = "200" alt="i学堂XMU微信公众号二维码.jpg" />
 
 ## [i学堂讲座课件](https://library.xmu.edu.cn/wd/jzkj/i_xt.htm) & [讲座视频](https://library.xmu.edu.cn/wd/jzsp.htm)
 - [图书馆文献资源与获取服务全解析](https://library.xmu.edu.cn/__local/9/A2/6C/F230D69B899DE36C45DA5CD165A_47F63F33_367D7D.pdf?e=.pdf)：[视频](https://www.bilibili.com/video/BV1Xy4y1k7bH)
