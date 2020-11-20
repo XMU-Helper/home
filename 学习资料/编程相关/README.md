@@ -8,4 +8,4 @@
 
 WISER CLUB微信公众号
 
-![]()
+![](WISERCLUB微信公众号二维码.jpeg)
