@@ -2,4 +2,5 @@
 
 **友情链接：**
 
-[一个大学生的日常笔记](https://www.zhihu.com/column/c_119426147)
+- [厦门大学全校性选修课&体育课介绍](https://www.zhihu.com/column/c_1217834639357956096)
+- [一个大学生的日常笔记](https://www.zhihu.com/column/c_119426147)
