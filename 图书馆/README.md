@@ -8,6 +8,7 @@
 
 - 主页：[厦门大学图书馆](https://library.xmu.edu.cn) &nbsp; bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
 - 概况：[思明校区图书馆简介](https://library.xmu.edu.cn/gk/smxqtsg1/jj.htm)、[德旺图书馆](https://libx.xmu.edu.cn/)、[信息工程分馆](https://library.xmu.edu.cn/gk/xxgcfg.htm)、[经济与管理分馆](https://library.xmu.edu.cn/gk/jjyglfg.htm)、[法学与艺术分馆](https://library.xmu.edu.cn/gk/fxyysfg.htm)、[漳州分馆](http://library.xujc.cn/)、[储存图书馆](https://libx.xmu.edu.cn/cyfw/cctsg.htm)、[区域资料研究中心](https://library.xmu.edu.cn/gk/qyyjzlzx.htm)、[联系方式](https://library.xmu.edu.cn/gk/lxfs.htm)
+- [我的图书馆](https://catalog.xmu.edu.cn/reader/login.php)：登录我的图书馆
 - [玩转图书馆](https://www.bilibili.com/video/BV1oJ411s7dC)：[选座篇](https://www.bilibili.com/video/BV1oJ411s7dC)、[自助文印篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=2)、[外文书库篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=3)
 - 图书馆服务：[开放时间](https://library.xmu.edu.cn/fw/tsjy/kfsj.htm)、[借阅权限](https://library.xmu.edu.cn/fw/tsjy/jyqx.htm)、[借阅规则](https://library.xmu.edu.cn/fw/tsjy/jygz.htm)、[座位管理规则](https://library.xmu.edu.cn/fw/zwgl/zwglgz.htm)、[研讨间预约](https://library.xmu.edu.cn/fw/ytjyy/zgyts.htm)
 - 数据库：[常用数据库](https://library.xmu.edu.cn/zy/cysjk/cysjkyl.htm)、[中文数据库](https://library.xmu.edu.cn/zy/zwsjk.htm)、[外文数据库](https://library.xmu.edu.cn/zy/wwsjk.htm)、[自建数据库](https://library.xmu.edu.cn/zy/zjsjk.htm)、[电子图书](https://library.xmu.edu.cn/zy/dzts/dzs.htm)、[在线报刊](https://library.xmu.edu.cn/zy/zxbk.htm)
