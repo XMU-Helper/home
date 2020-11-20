@@ -25,7 +25,7 @@
 
 ## [i学堂讲座课件](https://library.xmu.edu.cn/wd/jzkj/i_xt.htm) & [讲座视频](https://library.xmu.edu.cn/wd/jzsp.htm)
 - [图书馆文献资源与获取服务全解析](https://library.xmu.edu.cn/__local/9/A2/6C/F230D69B899DE36C45DA5CD165A_47F63F33_367D7D.pdf?e=.pdf)：[视频](https://www.bilibili.com/video/BV1Xy4y1k7bH)
-- [一站式检索与获取图书馆电子文献](https://library.xmu.edu.cn/__local/9/15/12/F3A2EA4DF9B280A907F82F5D54F_8337F260_7F3F5C.pptx?e=.pptx)
+- [一站式检索与获取图书馆电子文献](https://library.xmu.edu.cn/__local/9/15/12/F3A2EA4DF9B280A907F82F5D54F_8337F260_7F3F5C.pptx?e=.pptx)：[视频](https://www.bilibili.com/video/BV1SE411j74g)
 - [如何高效利用搜索引擎](https://library.xmu.edu.cn/__local/9/A0/09/837CCAC7A1F7E97B68AA59B0D62_4201ADA0_39E740.pdf?e=.pdf) ：[视频](https://www.bilibili.com/video/BV1XD4y1Q7ZG)
 - [互联网免费学术资源的检索与利用](https://library.xmu.edu.cn/__local/E/E3/28/470DB70B1BCDBDFD4354802AF74_D518B27E_477FCD.pdf?e=.pdf)：[视频](https://www.bilibili.com/video/BV1xy4y167MS)
 - [学位论文的检索与获取](https://library.xmu.edu.cn/__local/E/BE/7E/D9AE78C232A18AE6A261648AB5B_363B24BE_43691F.pdf?e=.pdf)：[视频](https://www.bilibili.com/video/BV1cv411C7Hb)
