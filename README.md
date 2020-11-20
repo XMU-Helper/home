@@ -10,11 +10,11 @@
 
 ## 目录
 
-- [学习资料](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)：编程相关、体育相关、公共课等
-- [学校文件](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6)：包括校历、学生管理、教学运行、实践教学、创新学分、专业设置与培养方案等
+- [学习资料](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)：编程相关[https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3]、[体育相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BD%93%E8%82%B2%E7%9B%B8%E5%85%B3)、公共课等
+- [学校文件](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6)：包括[校历](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E6%A0%A1%E5%8E%86)、[学业导航](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)、[学生管理](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86)、[教学运行](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E6%95%99%E5%AD%A6%E8%BF%90%E8%A1%8C)、[实践教学](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E6%95%99%E5%AD%A6%E8%BF%90%E8%A1%8C)、[创新学分](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%88%9B%E6%96%B0%E5%AD%A6%E5%88%86)、[专业设置与培养方案](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E4%B8%93%E4%B8%9A%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88)等
 - [学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)
-- 常见问题
-- 其他内容
+- [常见问题](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+- [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)
 
 部分内容待补充和完善，敬请期待~
 
