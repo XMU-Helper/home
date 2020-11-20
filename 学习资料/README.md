@@ -2,6 +2,8 @@
 
 ## 友情链接
 
+- [SPOC平台](https://l.xmu.edu.cn)
+- [THEOL网络教学综合平台](http://course.xmu.edu.cn)
 - [厦门大学全校性选修课&体育课介绍](https://www.zhihu.com/column/c_1217834639357956096)
 - [一个大学生的日常笔记](https://www.zhihu.com/column/c_119426147)
 - [厦门大学经济学院、王亚南经济研究院b站](https://space.bilibili.com/226018640/)
