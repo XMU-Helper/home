@@ -28,7 +28,7 @@
 - Windows 用户：打开路径C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
 - Mac 用户：按照该文章说法操作即可。
 
-如果您对此项目有任何建议，欢迎交流~ 联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty)
+如果您对此项目有任何建议，欢迎交流~ 联系方式：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty) or Email: rogerchen@stu.xmu.edu.cn
 
 如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star ，您的支持是对我们最好的鼓励~ 
 
