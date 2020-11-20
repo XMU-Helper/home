@@ -12,23 +12,23 @@
 ## 人文与艺术学部
 
 <details>
-        <summary>**人文学院**</summary>
+        <summary>人文学院</summary>
         <p>官网</p>
         <p>团委</p>
         <details>
-        <summary>**新闻传播学院**</summary>
+        <summary>新闻传播学院</summary>
         <p>官网</p>
         </details>
-        <summary>**外文学院**</summary>
+        <summary>外文学院</summary>
         <p>第二部分内容</p>
         </details>
-        <summary>**艺术学院**</summary>
+        <summary>艺术学院</summary>
         <p>第二部分内容</p>
         </details>
-        <summary>**海外教育学院**</summary>
+        <summary>海外教育学院</summary>
         <p>第二部分内容</p>
         </details>
-        <summary>**国际学院**</summary>
+        <summary>国际学院</summary>
         <p>第二部分内容</p>
         </details>
 </details>
