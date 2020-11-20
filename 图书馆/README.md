@@ -21,7 +21,7 @@
 
 - i学堂XMU微信公众号
 
-![](i学堂XMU微信公众号二维码.jpg)
+<img src="i学堂XMU微信公众号二维码.jpg" width = "250" height = "250" alt="i学堂XMU微信公众号二维码.jpg" />
 
 ## [i学堂讲座课件](https://library.xmu.edu.cn/wd/jzkj/i_xt.htm) & [讲座视频](https://library.xmu.edu.cn/wd/jzsp.htm)
 - [图书馆文献资源与获取服务全解析](https://library.xmu.edu.cn/__local/9/A2/6C/F230D69B899DE36C45DA5CD165A_47F63F33_367D7D.pdf?e=.pdf)：[视频](https://www.bilibili.com/video/BV1Xy4y1k7bH)
