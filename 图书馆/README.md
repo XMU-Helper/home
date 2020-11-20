@@ -1,5 +1,9 @@
 图书馆相关资源及链接。
 
+维护者：[rogerchenfz](https://github.com/rogerchenfz)
+
+贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学图书馆相关老师
+
 ## 友情链接
 
 - 主页：[厦门大学图书馆](https://library.xmu.edu.cn) &nbsp; bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
