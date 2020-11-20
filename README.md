@@ -6,7 +6,7 @@
 
 - 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 
-- 贡献者：[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）
+- 贡献者：[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、厦门大学体育教学部相关老师和部分同学
 
 ## 目录
 
