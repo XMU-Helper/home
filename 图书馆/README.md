@@ -2,7 +2,7 @@
 
 ## 友情链接
 
-- 主页：[厦门大学图书馆](https://library.xmu.edu.cn) bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
+- 主页：[厦门大学图书馆](https://library.xmu.edu.cn) &nbsp; bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
 - [玩转图书馆](https://www.bilibili.com/video/BV1oJ411s7dC)：[选座篇](https://www.bilibili.com/video/BV1oJ411s7dC)、[自助文印篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=2)、[外文书库篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=3)
 - [馆际互借和文献传递](https://library.xmu.edu.cn/fw/gjhj.htm)
 - [科技查新](https://library.xmu.edu.cn/fw/kjcx1/cxzjj.htm)
