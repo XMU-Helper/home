@@ -1,6 +1,6 @@
 包括 C、C++、Java、Python、R、MATLAB、SQL、Stata、SPSS、LaTex 等编程语言和软件。
 
-推荐内容：
+**推荐内容**：
 
 [编程相关的课程及公开资源](https://zhuanlan.zhihu.com/p/296928345)
 
