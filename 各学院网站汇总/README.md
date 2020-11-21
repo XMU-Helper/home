@@ -12,10 +12,10 @@
 - [厦门大学研究生会](https://yjsh.xmu.edu.cn/)
 
 <details>
-        <summary><font size="36px">人文与艺术学部</font></summary>
+        <summary>人文与艺术学部</summary>
         <details>
-                <summary><font size="24px">人文学院</font></summary>
-                <div><font size="18px">官网</font></div>
+                <summary>人文学院</summary>
+                <div>官网</div>
                 <div>团委</div>
         </details>
         <details>
@@ -24,6 +24,19 @@
         </details>
                 <details>
                 <summary>外文学院</summary>
+                <div>官网</div>
+        </details>
+                <details>
+                <summary>艺术学院</summary>
+                <div>官网</div>
+        </details>
+                <details>
+                <summary>海外教育学院</summary>
+                <div>官网</div>
+        </details>
+                </details>
+                <details>
+                <summary>国际学院</summary>
                 <div>官网</div>
         </details>
 </details>
