@@ -16,8 +16,7 @@
         <summary>人文与艺术学部：https://www.xmu.edu.cn/xbyx/rwyysxb.htm</summary>
         <details>
                 <summary>人文学院</summary>
-                <div>官网：https://rwxy.xmu.edu.cn/</div>
-                <div>微信公众号：厦大人文</div>
+                <div>官网：https://rwxy.xmu.edu.cn/ 微信公众号：厦大人文</div>
         </details>
         <details>
                 <summary>新闻传播学院</summary>
@@ -29,92 +28,97 @@
         </details>
                 <details>
                 <summary>艺术学院</summary>
-                <div>官网：https://art.xmu.edu.cn/</div> <div>微信公众号：厦门大学艺术学院</div>
+                <div>官网：https://art.xmu.edu.cn/ 微信公众号：厦门大学艺术学院</div>
         </details>
                 <details>
                 <summary>海外教育学院</summary>
                 <div>官网：http://oec.xmu.edu.cn/ 微信公众号：厦门大学海外教育学院</div>
         </details>
-                </details>
+                <details>
                 <summary>国际学院</summary>
-                <div>官网“https://liuxue.xmu.edu.cn/ 微信公众号：厦门大学国际学院</div>
+                <div>官网：https://liuxue.xmu.edu.cn/ 微信公众号：厦门大学国际学院</div>
+        </details>
+                <details>
+                <summary>创意与创新学院</summary>
+                <div>官网：https://ici.xmu.edu.cn/ 微信公众号：厦门大学创意与创新学院</div>
+        </details>    
+</details>
+
+<details>
+        <summary>社会科学学部：https://www.xmu.edu.cn/xbyx/shkxxb.htm</summary>
+        <details>
+                <summary>经济学院</summary>
+                <div>官网：https://economic.xmu.edu.cn/ 团委：https://jytw.xmu.edu.cn/ </div>
+                <div>王亚南经济研究院：https://wise.xmu.edu.cn/ 邹至庄经济研究中心：https://chowcenter.xmu.edu.cn/</div>
+                <div>微信公众号：厦门大学经济学院、厦门大学王亚南经济研究院WISE、厦门大学邹至庄经济研究中心</div>
+                <div>b站：WISESOE</div>
+        </details>
+        <details>
+                <summary>管理学院</summary>
+                <div>官网：https://sm.xmu.edu.cn/ 财务管理与会计研究院：http://ifas.xmu.edu.cn/ 微信公众号：厦门大学管理学院</div>
+        </details>
+                <details>
+                <summary>法学院</summary>
+                <div>官网：https://law.xmu.edu.cn/ 微信公众号：厦门大学法学院</div>
+        </details>
+                <details>
+                <summary>知识产权研究院</summary>
+                <div>官网：http://www.iprixmu.com/ </div>
+        </details>
+                <details>
+                <summary>公共事务学院</summary>
+                <div>官网：https://spa.xmu.edu.cn/ 微信公众号：厦大公事</div>
+        </details>
+                <details>
+                <summary>公共政策研究院</summary>
+                <div>官网：http://spp.xmu.edu.cn/ </div>       
+        </details>
+                <details>
+                <summary>马克思主义学院</summary>
+                <div>官网：https://marx.xmu.edu.cn/ 微信公众号：厦大马院</div>
+        </details>
+                <details>
+                <summary>国际关系学院</summary>
+                <div>官网：https://guoguan.xmu.edu.cn/ 微信公众号：厦大国关南洋</div>
+        </details>
+                <details>
+                <summary>台湾研究院</summary>
+                <div>官网：https://gifts.xmu.edu.cn/ </div>       
+        </details>
+<               <details>
+                <summary>南洋研究院</summary>
+                <div>官网：https://guoguan.xmu.edu.cn/ </div>       
+        </details>
+                <details>
+                <summary>教育研究院</summary>
+                <div>官网：https://ihe.xmu.edu.cn/ </div>       
+        </details>
+                <details>
+                <summary>体育教育部</summary>
+                <div>官网：https://tyjxb.xmu.edu.cn/ </div>
+        </details>
+                <details>
+                <summary>继续教育学院</summary>
+                <div>官网：https://nec.xmu.edu.cn/ 微信公众号：厦门大学继续教育学院</div>
+        </details>
+                <details>
+                <summary>社会与人类研究院</summary>
+                <div>官网：https://ssa.xmu.edu.cn/ </div>       
+        </details>
+                <details>
+                <summary>南海研究院</summary>
+                <div>官网：https://scsi.xmu.edu.cn/ </div>       
+        </details>
+                <details>
+                <summary>一带一路研究院</summary>
+                <div>官网：https://brri.xmu.edu.cn/ </div>       
         </details>
 </details>
 
-## 人文与艺术学部
 
-<details>
-        <summary>人文学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>新闻传播学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>外文学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>艺术学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>海外教育学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>国际学院</summary>
-        <p>官网</p>
-</details>
 
-## 社会科学学部
 
-<details>
-        <summary>经济学院</summary>
-        <p>官网：https://economic.xmu.edu.cn/</p>
-        <p>团委：https://jytw.xmu.edu.cn/</p>
-        <p>王亚南经济研究院：https://wise.xmu.edu.cn/</p>
-        <p>邹至庄经济研究中心：https://chowcenter.xmu.edu.cn/</p>
-        <p>微信公众号：厦门大学经济学院、厦门大学王亚南经济研究院WISE、厦门大学邹至庄经济研究中心</p>
-        <p>b站：WISESOE</p>
-</details>
-<details>
-        <summary>管理学院</summary>
-        <p>官网，厦门大学管理学院</p>
-</details>
-<details>
-        <summary>法学院</summary>
-        <p>官网</p>厦门大学法学院
-</details>
-<details>
-        <summary>公共事务学院</summary>
-        <p>官网，厦大公事</p>
-</details>
-<details>
-        <summary>马克思主义学院</summary>
-        <p>官网，厦大马院</p>
-</details>
-<details>
-        <summary>国际关系学院</summary>
-        <p>官网，厦大国关南洋</p>
-</details>
-<details>
-        <summary>教育研究院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>体育教学部</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>继续教育学院</summary>
-        <p>官网</p>厦门大学继续教育学院
-</details>
-<details>
-        <summary>社会与人类学院</summary>
-        <p>官网</p>
-</details>
+
 
 ## 自然科学学部
 
