@@ -1,5 +1,10 @@
 # XMU-Helper
 
+[![](https://img.shields.io/github/watchers/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/watchers)
+[![](https://img.shields.io/github/stars/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/stargazers)
+[![](https://img.shields.io/github/forks/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/network/members)
+![](https://img.shields.io/github/repo-size/rogerchenfz/XMU-Helper.svg?style=flat)
+
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
