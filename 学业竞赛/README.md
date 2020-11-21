@@ -14,7 +14,7 @@
 
 ### 英语类竞赛
 
-- [全国大学生英语竞赛官网](http://www.chinaneccs.cn/)
+- [全国大学生英语竞赛官网](http://www.chinaneccs.cn/)：[怎样准备全国大学生英语竞赛（NECCS）？ - 知乎](https://www.zhihu.com/question/22660492/answer/1321512709)
 - [外研社杯全国英语大赛官网](http://uchallenge.unipus.cn/)
 
 ### 计算机类竞赛
