@@ -85,7 +85,7 @@
                 <summary>台湾研究院</summary>
                 <div>官网：https://gifts.xmu.edu.cn/ </div>       
         </details>
-<       <details>
+        <details>
                 <summary>南洋研究院</summary>
                 <div>官网：https://guoguan.xmu.edu.cn/ </div>       
         </details>
