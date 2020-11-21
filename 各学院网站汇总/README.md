@@ -11,6 +11,23 @@
 - [厦门大学学生委员会](https://xsh.xmu.edu.cn/)
 - [厦门大学研究生会](https://yjsh.xmu.edu.cn/)
 
+<details>
+        <summary>人文与艺术学部</summary>
+        <details>
+                <summary>人文学院</summary>
+                <div>官网</div>
+                <div>团委</div>
+        </details>
+        <details>
+                <summary>新闻传播学院</summary>
+                <div>官网</div>
+        </details>
+                <details>
+                <summary>外文学院</summary>
+                <div>官网</div>
+        </details>
+</details>
+
 ## 人文与艺术学部
 
 <details>
