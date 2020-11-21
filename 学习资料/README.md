@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
+
 学习资料包括体育课、公共课、编程相关、数学相关、经济相关、管理相关、英语相关等，可在对应文件夹中寻找相关内容。
 
 ## 友情链接
