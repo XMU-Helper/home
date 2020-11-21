@@ -20,25 +20,25 @@
         </details>
         <details>
                 <summary>新闻传播学院</summary>
-                <div>官网：http://comm.xmu.edu.cn/</div>
+                <div>官网：http://comm.xmu.edu.cn/ 微信公众号：厦大新传家园</div>
         </details>
-                <details>
+        <details>
                 <summary>外文学院</summary>
                 <div>官网：https://cflc.xmu.edu.cn/ 微信公众号：厦大外文CFLC</div>
         </details>
-                <details>
+        <details>
                 <summary>艺术学院</summary>
                 <div>官网：https://art.xmu.edu.cn/ 微信公众号：厦门大学艺术学院</div>
         </details>
-                <details>
+        <details>
                 <summary>海外教育学院</summary>
                 <div>官网：http://oec.xmu.edu.cn/ 微信公众号：厦门大学海外教育学院</div>
         </details>
-                <details>
+        <details>
                 <summary>国际学院</summary>
                 <div>官网：https://liuxue.xmu.edu.cn/ 微信公众号：厦门大学国际学院</div>
         </details>
-                <details>
+        <details>
                 <summary>创意与创新学院</summary>
                 <div>官网：https://ici.xmu.edu.cn/ 微信公众号：厦门大学创意与创新学院</div>
         </details>    
@@ -57,140 +57,144 @@
                 <summary>管理学院</summary>
                 <div>官网：https://sm.xmu.edu.cn/ 财务管理与会计研究院：http://ifas.xmu.edu.cn/ 微信公众号：厦门大学管理学院</div>
         </details>
-                <details>
+        <details>
                 <summary>法学院</summary>
                 <div>官网：https://law.xmu.edu.cn/ 微信公众号：厦门大学法学院</div>
         </details>
-                <details>
+        <details>
                 <summary>知识产权研究院</summary>
                 <div>官网：http://www.iprixmu.com/ </div>
         </details>
-                <details>
+        <details>
                 <summary>公共事务学院</summary>
                 <div>官网：https://spa.xmu.edu.cn/ 微信公众号：厦大公事</div>
         </details>
-                <details>
+        <details>
                 <summary>公共政策研究院</summary>
                 <div>官网：http://spp.xmu.edu.cn/ </div>       
         </details>
-                <details>
+        <details>
                 <summary>马克思主义学院</summary>
                 <div>官网：https://marx.xmu.edu.cn/ 微信公众号：厦大马院</div>
         </details>
-                <details>
+        <details>
                 <summary>国际关系学院</summary>
                 <div>官网：https://guoguan.xmu.edu.cn/ 微信公众号：厦大国关南洋</div>
         </details>
-                <details>
+        <details>
                 <summary>台湾研究院</summary>
                 <div>官网：https://gifts.xmu.edu.cn/ </div>       
         </details>
-<               <details>
+<       <details>
                 <summary>南洋研究院</summary>
                 <div>官网：https://guoguan.xmu.edu.cn/ </div>       
         </details>
-                <details>
+        <details>
                 <summary>教育研究院</summary>
                 <div>官网：https://ihe.xmu.edu.cn/ </div>       
         </details>
-                <details>
+        <details>
                 <summary>体育教育部</summary>
                 <div>官网：https://tyjxb.xmu.edu.cn/ </div>
         </details>
-                <details>
+        <details>
                 <summary>继续教育学院</summary>
                 <div>官网：https://nec.xmu.edu.cn/ 微信公众号：厦门大学继续教育学院</div>
         </details>
-                <details>
+        <details>
                 <summary>社会与人类研究院</summary>
                 <div>官网：https://ssa.xmu.edu.cn/ </div>       
         </details>
-                <details>
+        <details>
                 <summary>南海研究院</summary>
                 <div>官网：https://scsi.xmu.edu.cn/ </div>       
         </details>
-                <details>
+        <details>
                 <summary>一带一路研究院</summary>
                 <div>官网：https://brri.xmu.edu.cn/ </div>       
         </details>
 </details>
 
-
-
-
-
-
-## 自然科学学部
-
 <details>
-        <summary>数学科学学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>物理科学与技术学院</summary>
-        <p>官网，厦门大学物理科学与技术学院</p>
-</details>
-<details>
-        <summary>化学化工学院</summary>
-        <p>官网</p>
+        <summary>自然科学学部：https://www.xmu.edu.cn/xbyx/zrkxxb.htm</summary>
+        <details>
+                <summary>数学科学学院</summary>
+                <div>官网：http://math.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>物理科学与技术学院</summary>
+                <div>官网：http://comm.xmu.edu.cn/ 微信公众号：厦门大学物理科学与技术学院</div>
+        </details>
+        <details>
+                <summary>化学化工学院</summary>
+                <div>官网：https://cflc.xmu.edu.cn/ 微信公众号：厦门大学化院梦飞扬</div>
+        </details>
 </details>
 
-## 工程技术学部
-
 <details>
-        <summary>信息学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>材料学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>建筑与土木工程学院</summary>
-        <p>官网，厦大石语</p>
-</details>
-<details>
-        <summary>能源学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>航空航天学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>电子科学与技术学院</summary>
-        <p>官网</p>
-</details>
-
-## 医学与生命科学学部
-
-<details>
-        <summary>生命科学学院</summary>
-        <p>官网，厦大生科人</p>
-</details>
-<details>
-        <summary>公共卫生学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>药学院</summary>
-        <p>官网</p>
-</details>
-<details>
-        <summary>医学院</summary>
-        <p>官网，厦门大学医学院</p>
+        <summary>工程技术学部：https://www.xmu.edu.cn/xbyx/gcjsxb.htm</summary>
+        <details>
+                <summary>信息学院</summary>
+                <div>官网：https://informatics.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>材料学院</summary>
+                <div>官网：https://cm.xmu.edu.cn/ 微信公众号：XMU天生我材</div>
+        </details>
+        <details>
+                <summary>建筑与土木工程学院</summary>
+                <div>官网：https://archt.xmu.edu.cn/ 微信公众号：厦大石语</div>
+        </details>
+        <details>
+                <summary>能源学院</summary>
+                <div>官网：https://energy.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>航空航天学院</summary>
+                <div>官网：http://aerospace.xmu.edu.cn/ 微信公众号：厦门大学航空航天学院</div>
+        </details>
+        <details>
+                <summary>电子科学与技术学院</summary>
+                <div>官网：https://ese.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>产业技术研究院</summary>
+                <div>官网：http://itri.xmu.edu.cn/ </div>
+        </details>
 </details>
 
-## 地球科学与技术学部
+<details>
+        <summary>医学与生命科学学部：https://www.xmu.edu.cn/xbyx/yxysmkxxb.htm</summary>
+        <details>
+                <summary>生命科学学院</summary>
+                <div>官网：https://life.xmu.edu.cn/ 微信公众号：厦大生科人</div>
+        </details>
+        <details>
+                <summary>公共卫生学院</summary>
+                <div>官网：https://sph.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>药学院</summary>
+                <div>官网：https://pharm.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>医学院</summary>
+                <div>官网：https://med.xmu.edu.cn/ 微信公众号：厦门大学医学院</div>
+        </details>
+</details>
 
 <details>
-        <summary>海洋与地球学院</summary>
-        <p>官网</p>
+        <summary>地球科学与技术学部：https://www.xmu.edu.cn/xbyx/dqkxyjsxb.htm</summary>
+        <details>
+                <summary>海洋与地球学院</summary>
+                <div>官网：http://coe.xmu.edu.cn/ </div>
+        </details>
+        <details>
+                <summary>环境与生态学院</summary>
+                <div>官网：https://cee.xmu.edu.cn/ 微信公众号：厦门大学环境与生态学院</div>
+        </details>
+        <details>
+                <summary>海洋与海岸带发展研究院</summary>
+                <div>官网：http://comi.xmu.edu.cn/ </div>
+        </details>
 </details>
-<details>
-        <summary>环境与生态学院</summary>
-        <p>官网</p>
-</details>
-
-<h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#A" data-toc-modified-id="A-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>A</a></span><ul class="toc-item"><li><span><a href="#AA" data-toc-modified-id="AA-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>AA</a></span><ul class="toc-item"><li><span><a href="#AAA" data-toc-modified-id="AAA-1.1.1"><span class="toc-item-num">1.1.1&nbsp;&nbsp;</span>AAA</a></span></li><li><span><a href="#AAB" data-toc-modified-id="AAB-1.1.2"><span class="toc-item-num">1.1.2&nbsp;&nbsp;</span>AAB</a></span></li></ul></li><li><span><a href="#AB" data-toc-modified-id="AB-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>AB</a></span><ul class="toc-item"><li><span><a href="#ABA" data-toc-modified-id="ABA-1.2.1"><span class="toc-item-num">1.2.1&nbsp;&nbsp;</span>ABA</a></span></li><li><span><a href="#ABB" data-toc-modified-id="ABB-1.2.2"><span class="toc-item-num">1.2.2&nbsp;&nbsp;</span>ABB</a></span></li></ul></li></ul></li><li><span><a href="#B" data-toc-modified-id="B-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>B</a></span><ul class="toc-item"><li><span><a href="#BA" data-toc-modified-id="BA-2.1"><span class="toc-item-num">2.1&nbsp;&nbsp;</span>BA</a></span><ul class="toc-item"><li><span><a href="#BAA" data-toc-modified-id="BAA-2.1.1"><span class="toc-item-num">2.1.1&nbsp;&nbsp;</span>BAA</a></span></li><li><span><a href="#BAB" data-toc-modified-id="BAB-2.1.2"><span class="toc-item-num">2.1.2&nbsp;&nbsp;</span>BAB</a></span></li></ul></li><li><span><a href="#BB" data-toc-modified-id="BB-2.2"><span class="toc-item-num">2.2&nbsp;&nbsp;</span>BB</a></span></li></ul></li><li><span><a href="#C" data-toc-modified-id="C-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>C</a></span><ul class="toc-item"><li><span><a href="#CA" data-toc-modified-id="CA-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>CA</a></span></li><li><span><a href="#CB" data-toc-modified-id="CB-3.2"><span class="toc-item-num">3.2&nbsp;&nbsp;</span>CB</a></span></li></ul></li></ul></div>
