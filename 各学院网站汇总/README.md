@@ -10,34 +10,34 @@
 - [厦门大学招生网](https://zsb.xmu.edu.cn/)
 - [厦门大学学生委员会](https://xsh.xmu.edu.cn/)
 - [厦门大学研究生会](https://yjsh.xmu.edu.cn/)
+- 微信公众号（括号内文字为公众号简介）：厦门大学、厦门大学翔安校区、厦门大学本科生教育、厦门大学研究生教育、青春厦大（共青团厦门大学委员会官方公众平台）、厦大招生、厦门大学财务处、厦门大学公寓办、厦门大学青春飞翔（厦门大学翔安校区团学工作宣传平台）、厦大就业（厦门大学学生就业创业指导中心）、厦大资助（厦门大学学生资助管理中心官方平台）、厦大盒子（厦门大学影像传播第一平台）、易班i厦大、i厦大易班厦门大学后勤集团、厦大体育（厦门大学体育赛事资讯）、厦大考试（厦门大学考试中心官方公众平台）、厦门大学访客预约系统、厦门大学通识教育中心、厦大餐饮、厦大人（厦门大学校友总会）
 
 <details>
-        <summary>人文与艺术学部</summary>
+        <summary>人文与艺术学部：https://www.xmu.edu.cn/xbyx/rwyysxb.htm</summary>
         <details>
                 <summary>人文学院</summary>
-                <div>官网</div>
-                <div>团委</div>
+                <div>官网：https://rwxy.xmu.edu.cn/</div>
+                <div>微信公众号：厦大人文</div>
         </details>
         <details>
                 <summary>新闻传播学院</summary>
-                <div>官网</div>
+                <div>官网：http://comm.xmu.edu.cn/</div>
         </details>
                 <details>
                 <summary>外文学院</summary>
-                <div>官网</div>
+                <div>官网：https://cflc.xmu.edu.cn/ 微信公众号：厦大外文CFLC</div>
         </details>
                 <details>
                 <summary>艺术学院</summary>
-                <div>官网</div>
+                <div>官网：https://art.xmu.edu.cn/</div> <div>微信公众号：厦门大学艺术学院</div>
         </details>
                 <details>
                 <summary>海外教育学院</summary>
-                <div>官网</div>
+                <div>官网：http://oec.xmu.edu.cn/ 微信公众号：厦门大学海外教育学院</div>
         </details>
                 </details>
-                <details>
                 <summary>国际学院</summary>
-                <div>官网</div>
+                <div>官网“https://liuxue.xmu.edu.cn/ 微信公众号：厦门大学国际学院</div>
         </details>
 </details>
 
@@ -81,23 +81,23 @@
 </details>
 <details>
         <summary>管理学院</summary>
-        <p>官网</p>
+        <p>官网，厦门大学管理学院</p>
 </details>
 <details>
         <summary>法学院</summary>
-        <p>官网</p>
+        <p>官网</p>厦门大学法学院
 </details>
 <details>
         <summary>公共事务学院</summary>
-        <p>官网</p>
+        <p>官网，厦大公事</p>
 </details>
 <details>
         <summary>马克思主义学院</summary>
-        <p>官网</p>
+        <p>官网，厦大马院</p>
 </details>
 <details>
         <summary>国际关系学院</summary>
-        <p>官网</p>
+        <p>官网，厦大国关南洋</p>
 </details>
 <details>
         <summary>教育研究院</summary>
@@ -109,7 +109,7 @@
 </details>
 <details>
         <summary>继续教育学院</summary>
-        <p>官网</p>
+        <p>官网</p>厦门大学继续教育学院
 </details>
 <details>
         <summary>社会与人类学院</summary>
@@ -124,7 +124,7 @@
 </details>
 <details>
         <summary>物理科学与技术学院</summary>
-        <p>官网</p>
+        <p>官网，厦门大学物理科学与技术学院</p>
 </details>
 <details>
         <summary>化学化工学院</summary>
@@ -143,7 +143,7 @@
 </details>
 <details>
         <summary>建筑与土木工程学院</summary>
-        <p>官网</p>
+        <p>官网，厦大石语</p>
 </details>
 <details>
         <summary>能源学院</summary>
@@ -162,7 +162,7 @@
 
 <details>
         <summary>生命科学学院</summary>
-        <p>官网</p>
+        <p>官网，厦大生科人</p>
 </details>
 <details>
         <summary>公共卫生学院</summary>
@@ -174,7 +174,7 @@
 </details>
 <details>
         <summary>医学院</summary>
-        <p>官网</p>
+        <p>官网，厦门大学医学院</p>
 </details>
 
 ## 地球科学与技术学部
