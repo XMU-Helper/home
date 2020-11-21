@@ -7,12 +7,6 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
-- 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
-
-- 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
-
-- 贡献者：[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、教务处相关老师、图书馆相关老师、体育教学部相关老师和部分同学
-
 ## 目录
 
 - [学习资料](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)：[数学相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3)、[经济相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BB%8F%E6%B5%8E%E7%9B%B8%E5%85%B3)、[管理相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%AE%A1%E7%90%86%E7%9B%B8%E5%85%B3)、[编程相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3)、[体育相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BD%93%E8%82%B2%E7%9B%B8%E5%85%B3)、[英语相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD%E7%9B%B8%E5%85%B3)、思政课等
@@ -24,6 +18,12 @@
 - [各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)：包括官网、微信公众号、b站等。
 
 部分内容待补充和完善，敬请期待~
+
+## 贡献
+
+- 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
+- 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
+- 贡献者：[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、教务处相关老师、图书馆相关老师、体育教学部相关老师和部分同学
 
 ## 使用说明
 
