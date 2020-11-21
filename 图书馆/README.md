@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%9B%BE%E4%B9%A6%E9%A6%86)
+![](https://img.shields.io/github/repo-size/rogerchenfz/XMU-Helpertree/main/%E5%9B%BE%E4%B9%A6%E9%A6%86.svg?style=flat)
+
 图书馆相关资源及链接，关于图书馆的各种信息均可在 [https://library.xmu.edu.cn](https://library.xmu.edu.cn) 上面查询。
 
 维护者：[rogerchenfz](https://github.com/rogerchenfz)
