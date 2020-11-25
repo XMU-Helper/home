@@ -18,7 +18,7 @@
 - [学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)
 - [图书馆](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%9B%BE%E4%B9%A6%E9%A6%86)：图书馆攻略，包括图书馆服务、i学堂讲座课程&视频等。
 - [常见问题](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)：包括转专业、专业分立等。
-- [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)
+- [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)：厦门大学本科课程GPA计算器等。
 - [各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)：包括官网、微信公众号、b站等。
 
 部分内容待补充和完善，敬请期待~
