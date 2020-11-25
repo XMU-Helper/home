@@ -4,6 +4,8 @@
 
 ## 友情链接
 
+- [赛氪网](http://www.saikr.com/)
+
 ### 数学类竞赛
 
 - [全国大学生数学竞赛官网](http://www.mcm.edu.cn/)
