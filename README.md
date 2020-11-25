@@ -9,6 +9,8 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
+**注：公众号厦大助手和南光餐厅为营销号，与本项目无关，请各位同学注意保护个人学号密码等信息。**
+
 ## 目录
 
 - [学习资料](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)：[数学相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%9B%B8%E5%85%B3)、[经济相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BB%8F%E6%B5%8E%E7%9B%B8%E5%85%B3)、[管理相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%AE%A1%E7%90%86%E7%9B%B8%E5%85%B3)、[编程相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3)、[体育相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BD%93%E8%82%B2%E7%9B%B8%E5%85%B3)、[英语相关](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD%E7%9B%B8%E5%85%B3)、思政课等
