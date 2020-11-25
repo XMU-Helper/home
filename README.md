@@ -25,6 +25,8 @@
 
 ## 贡献
 
+贡献方法：参见[贡献方法.md](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E8%B4%A1%E7%8C%AE%E6%96%B9%E6%B3%95.md)
+
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 - 维护者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 - 贡献者：[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、教务处相关老师、图书馆相关老师、体育教学部相关老师和部分同学
