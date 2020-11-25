@@ -33,7 +33,7 @@
 
 ## 使用说明
 
-根据需要访问对应文件夹，**使用前请仔细阅读每个文件夹的 `README.md` 文件**。**转载内容请附上链接和作者**。
+建议电脑端访问。根据需要访问对应文件夹，**使用前请仔细阅读每个文件夹的 `README.md` 文件**。**转载内容请附上链接和作者**。
 
 如果图片无法显示或者正常下载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
