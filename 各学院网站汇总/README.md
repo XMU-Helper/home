@@ -3,24 +3,12 @@
 各学院网站、微信公众号、b站账号汇总。
 
 ## 厦门大学
-- [厦门大学官网](https://www.xmu.edu.cn/)
-- [厦门大学官方微博](https://weibo.com/xmunews)
-- [厦门大学官方b站](https://space.bilibili.com/410510661/)
-- [厦门大学研究生院](https://gs.xmu.edu.cn/)
-- [厦门大学团委](https://tw.xmu.edu.cn/)
-- [厦门大学办公室](https://office.xmu.edu.cn/)
-- [厦门大学学生工作处](https://xsc.xmu.edu.cn/)
-- [厦门大学教务处](https://jwc.xmu.edu.cn/)
-- [厦门大学招生网](https://zsb.xmu.edu.cn/)
-- [厦门大学学生就业创业指导中心](https://jyzd.xmu.edu.cn/)
-- [厦门大学国际合作与交流处](https://ice.xmu.edu.cn/)
-- [厦门大学考试中心](https://kszx.xmu.edu.cn/)
-- [厦门大学新闻网](https://news.xmu.edu.cn/)
-- [厦门大学后勤集团](https://hqjt.xmu.edu.cn/)
-- [厦门大学资产与后勤事务管理处](https://zchqc.xmu.edu.cn/)
-- [厦门大学党委宣传部](https://xcb.xmu.edu.cn/)
-- [厦门大学学生委员会](https://xsh.xmu.edu.cn/)
-- [厦门大学研究生会](https://yjsh.xmu.edu.cn/)
+- [厦门大学官网](https://www.xmu.edu.cn/)、[厦门大学官方微博](https://weibo.com/xmunews)、[厦门大学官方b站](https://space.bilibili.com/410510661/)
+- [厦门大学团委](https://tw.xmu.edu.cn/)、[厦门大学办公室](https://office.xmu.edu.cn/)、[厦门大学学生工作处](https://xsc.xmu.edu.cn/)
+- [厦门大学教务处](https://jwc.xmu.edu.cn/)、[厦门大学研究生院](https://gs.xmu.edu.cn/)、[厦门大学招生网](https://zsb.xmu.edu.cn/)、[厦门大学国际合作与交流处](https://ice.xmu.edu.cn/)、[厦门大学考试中心](https://kszx.xmu.edu.cn/)、[厦门大学通识教育中心](https://liberal.xmu.edu.cn/)
+- [厦门大学图书馆](https://library.xmu.edu.cn/)、[厦门大学体育教学部](https://tyjxb.xmu.edu.cn/)、[厦门大学学生就业创业指导中心](https://jyzd.xmu.edu.cn/)
+- [厦门大学后勤集团](https://hqjt.xmu.edu.cn/)、[厦门大学资产与后勤事务管理处](https://zchqc.xmu.edu.cn/)
+- [厦门大学新闻网](https://news.xmu.edu.cn/)、[厦门大学党委宣传部](https://xcb.xmu.edu.cn/)、[厦门大学学生委员会](https://xsh.xmu.edu.cn/)、[厦门大学研究生会](https://yjsh.xmu.edu.cn/)
 - 微信公众号（括号内文字为公众号简介）：厦门大学、厦门大学翔安校区、厦门大学本科生教育、厦门大学研究生教育、青春厦大（共青团厦门大学委员会官方公众平台）、厦大招生、厦门大学财务处、厦门大学公寓办、厦大心理咨询与教育中心、厦门大学青春飞翔（厦门大学翔安校区团学工作宣传平台）、厦大就业（厦门大学学生就业创业指导中心）、厦大资助（厦门大学学生资助管理中心官方平台）、厦大盒子（厦门大学影像传播第一平台）、易班i厦大、i厦大易班、厦门大学后勤集团、厦大体育（厦门大学体育赛事资讯）、厦大考试（厦门大学考试中心官方公众平台）、厦门大学访客预约系统、厦门大学通识教育中心、厦大餐饮、厦大人（厦门大学校友总会）
 
 <details>
