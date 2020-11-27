@@ -15,7 +15,7 @@
 
 ## 各学院
 
-点击 ▷ `▶` 展开。
+点击 `▶` 展开。
 
 <details>
         <summary>人文与艺术学部：https://www.xmu.edu.cn/xbyx/rwyysxb.htm</summary>
