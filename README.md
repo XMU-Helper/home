@@ -35,19 +35,23 @@
 
 建议电脑端访问。根据需要访问对应文件夹，**使用前请仔细阅读每个文件夹的 `README.md` 文件**。**转载内容请附上链接和作者**。
 
+如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
+
 如果图片无法显示或者正常下载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
 - Mac 用户：按照该文章说法操作即可。
 
-如果您对此项目有任何建议，欢迎交流~ 
+如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star ，您的支持是对我们最好的鼓励~ 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-联系方式：
+## 联系方式：
+
+如果您对此项目有任何建议，欢迎交流~ 
 
 - 知乎私信：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty) 
 - Email: rogerchen@stu.xmu.edu.cn
 - 有qq和微信的朋友可以直接私信
 
-如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star ，您的支持是对我们最好的鼓励~ 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
+如果您认为本仓库的一些文件侵犯了您的权益，请[邮件联系我们](rogerchen@stu.xmu.edu.cn)，我们将会从仓库中彻底清除这些文件并道歉。
 
 ## 平台说明
 
