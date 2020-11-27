@@ -1,5 +1,3 @@
-维护者：[rogerchenfz](https://github.com/rogerchenfz)
-
 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学体育教学部相关老师和部分同学、厦门大学健身社、厦门大学跳绳协会
 
 ## 友情链接
