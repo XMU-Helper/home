@@ -2,12 +2,11 @@
 
 图书馆相关资源及链接，关于图书馆的各种信息均可在 [https://library.xmu.edu.cn](https://library.xmu.edu.cn) 上面查询。
 
-维护者：[rogerchenfz](https://github.com/rogerchenfz)
-
 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学图书馆相关老师
 
 ## 友情链接
-
+- [厦门大学图书馆总馆2020新生导览视频](https://www.bilibili.com/video/BV1sK4y1a7KZ)、[厦门大学德旺图书馆2020新生导览视频](https://www.bilibili.com/video/BV1Uh411R7bh)
+- [图书借还小贴士](https://www.bilibili.com/video/BV1yz4y1977Q)
 - 主页：[厦门大学图书馆](https://library.xmu.edu.cn) &nbsp; bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
 - 概况：[思明校区图书馆简介](https://library.xmu.edu.cn/gk/smxqtsg1/jj.htm)、[德旺图书馆](https://libx.xmu.edu.cn/)、[信息工程分馆](https://library.xmu.edu.cn/gk/xxgcfg.htm)、[经济与管理分馆](https://library.xmu.edu.cn/gk/jjyglfg.htm)、[法学与艺术分馆](https://library.xmu.edu.cn/gk/fxyysfg.htm)、[漳州分馆](http://library.xujc.cn/)、[储存图书馆](https://libx.xmu.edu.cn/cyfw/cctsg.htm)、[区域资料研究中心](https://library.xmu.edu.cn/gk/qyyjzlzx.htm)、[联系方式](https://library.xmu.edu.cn/gk/lxfs.htm)
 - [我的图书馆](https://catalog.xmu.edu.cn/reader/login.php)：登录我的图书馆
