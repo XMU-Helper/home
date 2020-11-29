@@ -5,23 +5,25 @@
 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学图书馆相关老师
 
 ## 友情链接
-- [厦门大学图书馆总馆2020新生导览视频](https://www.bilibili.com/video/BV1sK4y1a7KZ)、[厦门大学德旺图书馆2020新生导览视频](https://www.bilibili.com/video/BV1Uh411R7bh)
-- [图书借还小贴士](https://www.bilibili.com/video/BV1yz4y1977Q)
+
 - 主页：[厦门大学图书馆](https://library.xmu.edu.cn) &nbsp; bilibili账号：[厦大图书馆](https://space.bilibili.com/474387811/)
+- [厦门大学图书馆总馆2020新生导览视频](https://www.bilibili.com/video/BV1sK4y1a7KZ)、[厦门大学德旺图书馆2020新生导览视频](https://www.bilibili.com/video/BV1Uh411R7bh)、[新生专栏](https://library.xmu.edu.cn/xsy.htm)、[读者手册](https://library.xmu.edu.cn/wd/dzsc.htm)、[规章制度](https://library.xmu.edu.cn/wd/gzzd.htm)
+- [玩转图书馆](https://www.bilibili.com/video/BV1oJ411s7dC)：[选座篇](https://www.bilibili.com/video/BV1oJ411s7dC)、[自助文印篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=2)、[外文书库篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=3)
+- [图书借还小贴士](https://www.bilibili.com/video/BV1yz4y1977Q)、[如何使用有道词典笔](https://www.bilibili.com/video/BV13v411675G)
 - 概况：[思明校区图书馆简介](https://library.xmu.edu.cn/gk/smxqtsg1/jj.htm)、[德旺图书馆](https://libx.xmu.edu.cn/)、[信息工程分馆](https://library.xmu.edu.cn/gk/xxgcfg.htm)、[经济与管理分馆](https://library.xmu.edu.cn/gk/jjyglfg.htm)、[法学与艺术分馆](https://library.xmu.edu.cn/gk/fxyysfg.htm)、[漳州分馆](http://library.xujc.cn/)、[储存图书馆](https://libx.xmu.edu.cn/cyfw/cctsg.htm)、[区域资料研究中心](https://library.xmu.edu.cn/gk/qyyjzlzx.htm)、[联系方式](https://library.xmu.edu.cn/gk/lxfs.htm)
 - [我的图书馆](https://catalog.xmu.edu.cn/reader/login.php)：登录我的图书馆
-- [玩转图书馆](https://www.bilibili.com/video/BV1oJ411s7dC)：[选座篇](https://www.bilibili.com/video/BV1oJ411s7dC)、[自助文印篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=2)、[外文书库篇](https://www.bilibili.com/video/BV1oJ411s7dC?p=3)
-- 图书馆服务：[开放时间](https://library.xmu.edu.cn/fw/tsjy/kfsj.htm)、[借阅权限](https://library.xmu.edu.cn/fw/tsjy/jyqx.htm)、[借阅规则](https://library.xmu.edu.cn/fw/tsjy/jygz.htm)、[座位管理规则](https://library.xmu.edu.cn/fw/zwgl/zwglgz.htm)、[研讨间预约](https://library.xmu.edu.cn/fw/ytjyy/zgyts.htm)
+- 图书馆服务：[开放时间](https://library.xmu.edu.cn/fw/tsjy/kfsj.htm)、[借阅权限](https://library.xmu.edu.cn/fw/tsjy/jyqx.htm)、[借阅规则](https://library.xmu.edu.cn/fw/tsjy/jygz.htm)、[座位管理规则](https://library.xmu.edu.cn/fw/zwgl/zwglgz.htm)、[网页版座位管理平台](https://lib.xmu.edu.cn/seat)、[微信端座位系统操作说明](https://library.xmu.edu.cn/fw/zwgl/wxdzwxtczsm.htm)、[研讨间预约](https://library.xmu.edu.cn/fw/ytjyy/zgyts.htm)
 - 数据库：[常用数据库](https://library.xmu.edu.cn/zy/cysjk/cysjkyl.htm)、[中文数据库](https://library.xmu.edu.cn/zy/zwsjk.htm)、[外文数据库](https://library.xmu.edu.cn/zy/wwsjk.htm)、[自建数据库](https://library.xmu.edu.cn/zy/zjsjk.htm)、[电子图书](https://library.xmu.edu.cn/zy/dzts/dzs.htm)、[在线报刊](https://library.xmu.edu.cn/zy/zxbk.htm)
 - [馆际互借和文献传递](https://library.xmu.edu.cn/fw/gjhj.htm)
 - [科技查新](https://library.xmu.edu.cn/fw/kjcx1/cxzjj.htm)
 - [失物招领](https://lib.xmu.edu.cn/lost/index.asp)
 - [图书捐赠](http://donors.xmu.edu.cn)
 - [校外访问VPN](https://library.xmu.edu.cn/zy/xwfw/CARSI.htm)
-- [座位管理](https://lib.xmu.edu.cn/seat)
-- [总馆研讨室预约](https://service.xmulib.org/rooms)
-- [总馆318空间使用申请](https://service.xmulib.org/rooms/zh-hans/room_apply_318)
-- [德旺图书馆研讨间预约](https://service.xmulib.org/studyroom)
+- 座位管理：[座位管理规则](https://library.xmu.edu.cn/fw/zwgl/zwglgz.htm)、[网页版座位管理平台](https://lib.xmu.edu.cn/seat)、[微信端座位系统操作说明](https://library.xmu.edu.cn/fw/zwgl/wxdzwxtczsm.htm)
+- 研讨间预约：[总馆研讨室预约](https://service.xmulib.org/rooms)、[总馆318空间使用申请](https://service.xmulib.org/rooms/zh-hans/room_apply_318)、[德旺图书馆研讨间预约](https://service.xmulib.org/studyroom)
+- [实用工具](https://library.xmu.edu.cn/wd/sygj.htm)：包括阅读器（Adobe Acrobat Reader v70、超星电子书阅读器、福昕PDF套件、CAJViewer 7.2 浏览器、ApabiReader、万方数据文字识别插件、FeedDemon）、光盘（7-Zip、eShot2003插件、Daemon Tools V347 简体中文版）、[MATLAB](http://genuine.xmu.edu.cn/matlab.html)、[EndNote](http://genuine.xmu.edu.cn/endnote.html)、有道文档翻译、浏览器扩展（豆瓣读书频道显示图书馆馆藏的浏览器扩展、印象笔记的Chrome云标签扩展）
+- [年度报告](https://library.xmu.edu.cn/wd/ndbg/ndbg.htm)
+- 文创产品：[手机壁纸](https://library.xmu.edu.cn/wd/wccp/sjbz.htm)、[电脑壁纸](https://library.xmu.edu.cn/wd/wccp/dnbz.htm)、[纪念品](https://library.xmu.edu.cn/wd/wccp/jnp.htm)
 - [馆长信箱](https://lib.xmu.edu.cn/ask/question_consult)
 - [馆藏中外文电子图书资源介绍](https://library.xmu.edu.cn/__local/B/84/09/C54ABACC471150037FD63A66156_08111D34_1773F59.pptx?e=.pptx)：[视频](https://www.bilibili.com/video/BV1VA411j7MK)
 - 厦大图书馆微信公众号 & i学堂XMU微信公众号
