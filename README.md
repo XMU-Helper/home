@@ -51,7 +51,7 @@
 - Email: rogerchen@stu.xmu.edu.cn
 - 有qq和微信的朋友可以直接私信
 
-如果您认为本仓库的一些文件侵犯了您的权益，请[邮件联系我们](rogerchen@stu.xmu.edu.cn)，我们将会从仓库中彻底清除这些文件并道歉。
+如果您认为本仓库的一些文件侵犯了您的权益，请在 [Issues](https://github.com/rogerchenfz/XMU-Helper/issues) 下指出或[邮件联系我们](rogerchen@stu.xmu.edu.cn)，我们将会从仓库中彻底清除这些文件并道歉。
 
 ## 平台说明
 
