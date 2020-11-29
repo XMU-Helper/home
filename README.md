@@ -4,6 +4,7 @@
 [![](https://img.shields.io/github/watchers/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/watchers)
 [![](https://img.shields.io/github/stars/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/stargazers)
 [![](https://img.shields.io/github/forks/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/network/members)
+[![](https://img.shields.io/github/issues-pr-closed-raw/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/pulls?q=is%3Apr+is%3Aclosed)
 ![](https://img.shields.io/github/repo-size/rogerchenfz/XMU-Helper.svg?style=flat)
 
 
