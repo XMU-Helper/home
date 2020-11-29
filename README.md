@@ -55,7 +55,7 @@
 
 ## 平台说明
 
-参考 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)。
+参考 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)。
 
 为什么采用 GitHub 项目作为平台？
 
