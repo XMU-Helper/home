@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)
 
-校内校外学业竞赛汇总。
+校内校外学业竞赛汇总。关于创新学分，参见[创新学分](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%88%9B%E6%96%B0%E5%AD%A6%E5%88%86)。
 
 ## 友情链接
 
