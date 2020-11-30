@@ -8,8 +8,8 @@
 
 ### 数学类竞赛
 
-- [全国大学生数学竞赛官网](http://www.mcm.edu.cn/)
 - [全国大学生数学竞赛网站](http://www.cmathc.cn/?tdsourcetag=s_pcqq_aiomsg)
+- [全国大学生数学建模竞赛官网](http://www.mcm.edu.cn/)
 - [美国大学生数学建模竞赛官网](https://www.comap.com/undergraduate/contests/)
 - [MathorCup高校数学建模挑战赛官网](http://www.mathorcup.org/)
 - [亚太地区大学生数学建模竞赛官网](http://www.apmcm.org/)
