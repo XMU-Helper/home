@@ -38,6 +38,8 @@
 
 如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
 
+如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载。如果文件可以预览，点击 Raw 即可下载。或者将 URL (https://github.com/rogerchenfz/XMU-Helper/blob/main/...) 中的 blob 改为 raw）
+
 如果图片无法显示或者正常下载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
 - Mac 用户：按照该文章说法操作即可。
