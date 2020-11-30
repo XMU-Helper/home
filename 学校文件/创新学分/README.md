@@ -1,4 +1,6 @@
-创新学分相关文件，建议不了解创新学分的同学先阅读 **认识创新学分20191009.pdf** 和 **厦门大学本科生创新学分认定办法.pdf** 这两个文件。关于学业竞赛，参见[学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)
+创新学分相关文件，建议不了解创新学分的同学先阅读 **认识创新学分20191009.pdf** 和 **厦门大学本科生创新学分认定办法.pdf** 这两个文件。
+
+关于学业竞赛，参见[学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)。
 
 ## 友情链接
 
