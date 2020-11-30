@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%9B%BE%E4%B9%A6%E9%A6%86)
 
-图书馆相关资源及链接最全整理。关于图书馆的各种信息均可在 [https://library.xmu.edu.cn](https://library.xmu.edu.cn) 上面查询，常见问题参见[常见问题](https://library.xmu.edu.cn/gk/cjwt.htm)。
+图书馆相关服务、资源及链接最全整理。关于图书馆的各种信息均可在 (https://library.xmu.edu.cn) 上面查询，常见服务、资源及链接参见下方友情链接。若您还有其他问题，可以访问[常见问题](https://library.xmu.edu.cn/gk/cjwt.htm)进行查找。
 
 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学图书馆相关老师
 
