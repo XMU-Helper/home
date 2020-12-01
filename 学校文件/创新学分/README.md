@@ -11,5 +11,6 @@
 - [厦门大学大学生创业训练计划项目证明](http://cxw.xmu.edu.cn/admin/cms/content?artId=a4a51da8-87f0-474a-b300-89bb6b660cbc)
 - [大学生创新创业训练项目承诺书](http://cxw.xmu.edu.cn/admin/cms/content?artId=ac3701e5-862c-4747-ac3e-d502703e10df)
 - [科创竞赛相关文档下载](http://cxw.xmu.edu.cn/admin/cms/content?artId=c3b20dac-a578-4f74-8ebb-49f4334017b5)
+- [厦门大学校办学生事务助理团队总结的创新学分推送](https://mp.weixin.qq.com/s/c78HYifOveSVWARuanjJ2Q)
 
 [返回上一级](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6) &nbsp; [返回主页](https://github.com/rogerchenfz/XMU-Helper)
