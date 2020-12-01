@@ -7,3 +7,4 @@
 - [转专业](https://www.zhihu.com/question/398236373/answer/1397595523)：具体文件参见教务处和各学院官网。
 - 专业分流：[经济学院](https://www.zhihu.com/question/330271685/answer/989731244)
 - 辅修：参见[学业导航](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)
+- [校园卡流水查询](http://i.xmu.edu.cn/EIP/user/index.htm)：首页个人中心板块点击“一卡通”，可查询当月的交易流水，如需获取更多的消费明细，请下载学付宝查看。（学付宝二维码见查询查询入口最下方）
