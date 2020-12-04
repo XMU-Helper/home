@@ -50,7 +50,8 @@
 
 如果您对此项目有任何建议，欢迎交流~ 
 
-- 知乎私信：[https://www.zhihu.com/people/cfzalmighty](https://www.zhihu.com/people/cfzalmighty) 
+- GitHub：[Issues](https://github.com/rogerchenfz/XMU-Helper/issues) 留言
+- 知乎：[cfzalmighty](https://www.zhihu.com/people/cfzalmighty) 私信
 - Email: rogerchen@stu.xmu.edu.cn
 - 有qq和微信的朋友可以直接私信
 
