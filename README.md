@@ -10,7 +10,7 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活等方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
-**注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。** 学校官方的各个平台参见[各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
+**注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。**关于密码设置的建议，可参考[密码.md](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)学校官方的各个平台参见[各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
 
 ## 目录
 
@@ -19,7 +19,7 @@
 - [学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)：[数学建模](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1)、[数学竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B)、[英语竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B/%E8%8B%B1%E8%AF%AD%E7%AB%9E%E8%B5%9B)等，含校级（含校外）本科生学业竞赛项目立项名单
 - [图书馆](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%9B%BE%E4%B9%A6%E9%A6%86)：图书馆相关资源及链接最全整理，包括图书馆服务、i学堂讲座课程&视频等
 - [常见问题](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)：包括转专业、专业分流、辅修、校园卡流水查询等
-- [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)：厦门大学本科课程GPA计算器等
+- [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)：厦门大学学生社团、厦门大学本科课程GPA计算器等
 - [各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)：包括厦门大学及各学院的官网、微信公众号、b站等
 
 部分内容待补充和完善，敬请期待~
