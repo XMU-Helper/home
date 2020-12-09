@@ -10,7 +10,7 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活等方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
-**注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。**关于密码设置的建议，可参考[密码.md](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)学校官方的各个平台参见[各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
+**注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。** 关于密码设置的建议，可参考[密码.md](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)。学校官方的各个平台参见[各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
 
 ## 目录
 
