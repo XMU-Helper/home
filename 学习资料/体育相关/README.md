@@ -1,4 +1,4 @@
-贡献者：[rogerchenfz](https://github.com/rogerchenfz)、厦门大学体育教学部相关老师和部分同学、厦门大学健身社、厦门大学跳绳协会
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BD%93%E8%82%B2%E7%9B%B8%E5%85%B3)
 
 根据体育课程教学大纲的规定，体育课程设4个必修学分，除大一第一学期必修1学分外，其余的三个学分可在大学期间的任一学期完成，同时这三个学分可以通过不同途径来获得：一是通过正常的体育选课获取学分；二是通过特色项目来获取学分。（特色学分说明见最下方相关文件部分）
 
