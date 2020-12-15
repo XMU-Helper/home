@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%88%9B%E6%96%B0%E5%AD%A6%E5%88%86)
+
 创新学分相关文件，建议不了解创新学分的同学先阅读 **认识创新学分20191009.pdf** 和 **厦门大学本科生创新学分认定办法.pdf** 这两个文件，部分常见问题可阅读[厦门大学校办学生事务助理团队总结的创新学分推送](https://mp.weixin.qq.com/s/c78HYifOveSVWARuanjJ2Q)。
 
 关于学业竞赛，参见[学业竞赛](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E4%B8%9A%E7%AB%9E%E8%B5%9B)。
