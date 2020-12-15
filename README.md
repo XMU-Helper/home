@@ -22,7 +22,7 @@
 - [其他内容](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)：海外学习、厦门大学学生社团、厦门大学本科课程GPA计算器、Wi-Fi和VPN密码重置手册等
 - [各学院网站汇总](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)：包括厦门大学及各学院的官网、微信公众号、b站等
 
-部分内容待补充和完善，敬请期待~
+更多惊喜等你来发现。部分内容待补充和完善，敬请期待~
 
 ## 贡献
 
