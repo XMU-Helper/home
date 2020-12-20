@@ -5,6 +5,7 @@
 ### MOOC
 - [数学建模-谭忠](https://www.icourse163.org/learn/XMU-1001556009)
 - [多元统计分析-刘婧媛](https://www.icourse163.org/course/XMU-1206305809)
+- [时间序列分析-李木易](https://www.icourse163.org/course/XMU-1461788171)
 - [属性数据分析-冯峥晖](https://www.icourse163.org/course/XMU-1002565001)
 
 ### b站
