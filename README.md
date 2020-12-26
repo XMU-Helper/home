@@ -7,7 +7,6 @@
 [![](https://img.shields.io/github/issues-pr-closed-raw/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/pulls?q=is%3Apr+is%3Aclosed)
 ![](https://img.shields.io/github/repo-size/rogerchenfz/XMU-Helper.svg?style=flat)
 ![](https://img.shields.io/github/last-commit/rogerchenfz/XMU-Helper.svg?style=flat)
-![](https://img.shields.io/github/downloads/rogerchenfz/XMU-Helper/total.svg?style=flat)
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活等方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
