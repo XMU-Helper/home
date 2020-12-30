@@ -36,9 +36,9 @@
 
 建议电脑端使用 Chrome 浏览器访问。根据需要访问对应文件夹，**使用前请仔细阅读每个文件夹的 `README.md` 文件**。**转载内容请附上链接和作者**。
 
-如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。如该方法已失效，可以参考[如何从 GitHub 上下载单个文件夹？](https://www.zhihu.com/question/25369412)、部分CSDN的博客或百度。
+如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。如该方法已失效，可以参考[如何从 GitHub 上下载单个文件夹](https://www.zhihu.com/question/25369412)、部分 CSDN 的博客或百度。
 
-如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载（或者右键点击 Download 选择 “链接另存为”）。如果文件可以预览，点击 Raw 即可下载（或者右键点击 Raw 选择 “链接另存为”）。或者将 URL (https://github.com/rogerchenfz/XMU-Helper/blob/main/...) 中的 blob 改为 raw）。其他方法可以参考部分CSDN的博客或百度。
+如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载（或者右键点击 Download 选择 “链接另存为”）。如果文件可以预览，点击 Raw 即可下载（或者右键点击 Raw 选择 “链接另存为”）。或者将 URL (https://github.com/rogerchenfz/XMU-Helper/blob/main/...) 中的 blob 改为 raw）。其他方法可以参考部分 CSDN 的博客或百度。
 
 如果图片无法显示或者正常加载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。如果图片还是无法显示或者正常加载，可以参考百度。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
