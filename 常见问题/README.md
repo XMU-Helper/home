@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper/tree/main/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
-常见问题整理：学业相关、生活服务
+常见问题整理：学业相关、生活服务。相关反馈渠道可参见厦门大学校办学生事务助理团队整理的[意见反馈渠道汇总](https://mp.weixin.qq.com/s/Od7aPJeo1FypQC4heVRfFA)
 
 ## 学业相关
 - 大部分问题均可在[《学业指南》](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)和《学生手册》中找到答案。
