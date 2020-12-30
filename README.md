@@ -36,15 +36,15 @@
 
 建议电脑端使用 Chrome 浏览器访问。根据需要访问对应文件夹，**使用前请仔细阅读每个文件夹的 `README.md` 文件**。**转载内容请附上链接和作者**。
 
-如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
+如果要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。如该方法已失效，可以参考[如何从 GitHub 上下载单个文件夹？](https://www.zhihu.com/question/25369412)、部分CSDN的博客或百度。
 
-如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载（或者右键点击 Download 选择 “链接另存为”）。如果文件可以预览，点击 Raw 即可下载（或者右键点击 Raw 选择 “链接另存为”）。或者将 URL (https://github.com/rogerchenfz/XMU-Helper/blob/main/...) 中的 blob 改为 raw）
+如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载（或者右键点击 Download 选择 “链接另存为”）。如果文件可以预览，点击 Raw 即可下载（或者右键点击 Raw 选择 “链接另存为”）。或者将 URL (https://github.com/rogerchenfz/XMU-Helper/blob/main/...) 中的 blob 改为 raw）。其他方法可以参考部分CSDN的博客或百度。
 
-如果图片无法显示或者正常加载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。
+如果图片无法显示或者正常加载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。如果图片还是无法显示或者正常加载，可以参考百度。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
 - Mac 用户：按照该文章说法操作即可。
 
-如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star ，您的支持是对我们最好的鼓励~ 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
+如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star，您的支持是对我们最好的鼓励~ 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
 ## 联系方式
 
@@ -72,7 +72,7 @@
 
 ## 本科生学业指南
 
-非常建议仔细阅读：[厦门大学2018本科生学业指南](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)，学习方面的问题在这里基本上都能找到答案，包括教务服务、学习、考核、成绩、专业、学习资源、毕业等内容，详细而全面：
+非常建议仔细阅读：[学业指南](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)，学习方面的问题在这里基本上都能找到答案，包括教务服务、学习、考核、成绩、专业、学习资源、毕业等内容，详细而全面：
 - 第一章：教务服务。包括教务处学生业务、本科生导师制、公共教室资源、重要网站&系统、微信版教务服务、教育质量保障。
 - 第二章：学习。包括三学期制、培养方案、完费报到注册、年度学籍信息检查、选课、请假、免听、休学/保留学籍、复学、出国出境交流学习、转学、退学、学习证明办理。
 - 第三章：考核。包括考核与重修、缓考、大学英语四六级、雅思考试、托福考试、普通话考试、考试违规处理。
