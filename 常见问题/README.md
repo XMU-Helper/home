@@ -5,9 +5,9 @@
 ## 学业相关
 - 大部分问题均可在[《学业指南》](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)和《学生手册》中找到答案。
 - 创新学分相关问题参见[创新学分](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%88%9B%E6%96%B0%E5%AD%A6%E5%88%86)。
-- [转专业](https://www.zhihu.com/question/398236373/answer/1397595523)：具体文件参见教务处和各学院官网。
 - 专业分流：[经济学院](https://www.zhihu.com/question/330271685/answer/989731244)
-- 辅修：参见[学业导航](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)
+- [转专业](https://www.zhihu.com/question/398236373/answer/1397595523)：具体文件参见[教务处](https://jwc.xmu.edu.cn/)（站内搜索“转专业”）和[各学院官网](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
+- 双学位（辅修）：参见[学业导航](https://github.com/rogerchenfz/XMU-Helper/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6/%E5%AD%A6%E4%B8%9A%E5%AF%BC%E8%88%AA)，具体通知参见[教务处](https://jwc.xmu.edu.cn/)（站内搜索“双学位”）
 - 图书馆相关问题参见[图书馆相关资源及链接最全整理](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E5%9B%BE%E4%B9%A6%E9%A6%86/README.md)。
 
 ## 生活服务
