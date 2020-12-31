@@ -88,7 +88,7 @@
         </details>
         <details>
                 <summary>台湾研究院</summary>
-                <div>官网：https://gifts.xmu.edu.cn/ </div>       
+                <div>官网：https://gifts.xmu.edu.cn/ 微信公众号：厦大台研院GIfTS</div>       
         </details>
         <details>
                 <summary>南洋研究院</summary>
@@ -140,7 +140,7 @@
         <summary>工程技术学部：https://www.xmu.edu.cn/xbyx/gcjsxb.htm</summary>
         <details>
                 <summary>信息学院</summary>
-                <div>官网：https://informatics.xmu.edu.cn/ </div>
+                <div>官网：https://informatics.xmu.edu.cn/ 微信公众号：厦信青年</div>
         </details>
         <details>
                 <summary>材料学院</summary>
