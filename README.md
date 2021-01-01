@@ -87,7 +87,7 @@
 
 ## 常用网站合集
 
-包括学生服务、教学相关、校内生活、信息与网络、密码管理、图书馆服务、资源预约、后勤服务、财务信息、贫困助学、健康统计、毕业相关、外事事务、特殊网站等板块。
+包括学生服务、教学相关、校内生活、信息与网络、密码管理、图书馆服务、资源预约、后勤服务、财务信息、贫困助学、健康统计、毕业相关、外事事务、百年校庆等板块。
 
 参考：[https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University](https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University)
 
