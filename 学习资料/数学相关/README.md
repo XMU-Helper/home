@@ -13,7 +13,8 @@
 - [属性数据分析-冯峥晖](https://www.icourse163.org/course/XMU-1002565001)：统计系
 - [概率论与统计学-洪永淼](https://www.icourse163.org/course/XMU-1206678826)
 - [高级计量经济学-洪永淼等](https://www.icourse163.org/course/XMU-1002606048)：[课程网站](https://ae.soe.xmu.edu.cn/)
-- [概率论与数理统计-曾华玲、郑旭玲、吴德文](https://www.icourse163.org/course/XMU-1003699004)：信息学院
+- [概率论与数理统计-曾华琳、郑旭玲、吴德文](https://www.icourse163.org/course/XMU-1003699004)：信息学院
+- [算法设计与分析-张德富、曾华琳](https://www.icourse163.org/course/XMU-1205800806)：信息学院
 
 ### b站
 - [高等代数](http://gdjpkc.xmu.edu.cn/)：国家精品课程、福建省精品课程、厦门大学精品课程，[视频](https://www.bilibili.com/video/BV1AE411876i)(2013年)
