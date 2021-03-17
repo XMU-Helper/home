@@ -30,7 +30,7 @@
 
 - 发起者：[rogerchenfz](https://github.com/rogerchenfz)（经济学院2017级统计学本科生）
 - 维护者：[rogerchenfz](https://github.com/rogerchenfz)
-- 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、[Alexander He](https://github.com/alexhe101)（信息学院2018级软件工程本科生）、[TheHiddenObserver](https://github.com/TheHiddenObserver)（经济学院2018级统计学本科生）、[Enatsu](https://github.com/unsioer)（信息学院2018级软件工程本科生）、教务处相关老师、图书馆相关老师、体育教学部相关老师和部分同学
+- 贡献者：[rogerchenfz](https://github.com/rogerchenfz)、[sSong](https://github.com/sSong2019)（王亚南经济研究院2019级经济学本科生）、[Alexander He](https://github.com/alexhe101)（信息学院2018级软件工程本科生）、[TheHiddenObserver](https://github.com/TheHiddenObserver)（经济学院2018级统计学本科生）、[Enatsu](https://github.com/unsioer)（信息学院2018级软件工程本科生）、[timeofmei](https://github.com/timeofmei)（经济学院2019级数据科学与大数据技术本科生）、教务处相关老师、图书馆相关老师、体育教学部相关老师和部分同学
 
 ## 使用说明
 
