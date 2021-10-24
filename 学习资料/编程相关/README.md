@@ -16,3 +16,5 @@
 全国计算机等级考试（NCRE）报名网站
 - 登录福建省教育考试院网站：[https://www.eeafj.cn](https://www.eeafj.cn)右侧，“数字服务大厅”—>社会考试—>“全国计算机等级考试考生报名”进行注册登录。  
 - 南强考网：[http://djks123.xmu.edu.cn](http://djks123.xmu.edu.cn)进入报名
+
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
