@@ -9,3 +9,5 @@
 - 厦门大学大学生创新训练项目中期验收报告	
 - 厦门大学大学生创新训练项目结题报告	
 - 大学生创新创业训练项目承诺书
+
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
