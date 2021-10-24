@@ -21,3 +21,5 @@
 - [概率论与统计学-洪永淼](https://www.bilibili.com/video/BV11t411A7bp)
 - [金融工程-郑振龙](https://www.bilibili.com/video/BV1Zx411U7Cb)
 - [时间序列计量经济学中的非参数分析-洪永淼](https://www.bilibili.com/video/BV1dp4y1S7G1)
+
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
