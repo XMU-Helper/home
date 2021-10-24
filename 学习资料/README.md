@@ -8,3 +8,4 @@
 - [THEOL网络教学综合平台](http://course.xmu.edu.cn)
 - [厦门大学全校性选修课&体育课介绍](https://www.zhihu.com/column/c_1217834639357956096)
 
+[返回上一级](https://github.com/XMU-Helper/home) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
