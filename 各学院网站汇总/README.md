@@ -129,6 +129,7 @@
         <details>
                 <summary>物理科学与技术学院</summary>
                 <div>官网：http://comm.xmu.edu.cn/ 微信公众号：厦门大学物理科学与技术学院</div>
+                <div>b站：https://space.bilibili.com/485981353 </div>
         </details>
         <details>
                 <summary>化学化工学院</summary>
