@@ -19,3 +19,5 @@
 在厦门大学学生会网站 https:xsh.xmu.edu.cn 下载涂鸦申请表，在系统内作为附件提交。如果是社团需要申请涂鸦的话，请先在系统上进行线上申请，并提交电子版涂鸦图稿，请指导老师、挂靠单位在系统内审核。待社团指导中心及校团委进行审核后，请携带证明学生社团管理系统内审核通过的相关材料及绘有涂鸦内容的 A4 纸图稿，在涂鸦开始前到自钦楼一楼向学生会进行审批。
 
 - 社团：[厦门大学学生社团管理系统](http://xsst.xmu.edu.cn/)，加入社团的流程参见青春厦大微信公众号，社团汇总参见[社团.md](https://github.com/rogerchenfz/XMU-Helper/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E7%A4%BE%E5%9B%A2.md)。
+
+[返回上一级](https://github.com/XMU-Helper/home) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
