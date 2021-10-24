@@ -10,6 +10,8 @@
 
 厦门大学攻略大全。受其他高校相关项目启发，值此百年校庆之际，创立此项目，希望在学习和生活等方面帮助到更多XMUer。欢迎更多 XMUer 添砖加瓦~ （只要是开源有用的都可以，包括但不局限于学习资料、实用链接、经验分享、Q&A合集）
 
+部分内容参见知乎专栏：[厦门大学攻略大全]https://www.zhihu.com/column/c_1386035968697307136
+
 **注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。** 关于密码设置的建议，可参考[密码.md](https://github.com/XMU-Helper/home/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)。学校官方的各个平台参见[各学院网站汇总](https://github.com/XMU-Helper/home/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
 
 ## 目录
@@ -88,6 +90,8 @@
 ## 常用网站合集
 
 包括学生服务、教学相关、校内生活、信息与网络、密码管理、图书馆服务、资源预约、后勤服务、财务信息、贫困助学、健康统计、毕业相关、外事事务、百年校庆等板块。
+
+部分内容可参见：[厦门大学学生常用网站](https://zhuanlan.zhihu.com/p/382502533)
 
 参考：[https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University](https://github.com/sSong2019/Commonly-used-website-of-Xiamen-University)
 
