@@ -32,3 +32,5 @@
 - 厦门大学本科生转专业申请审批表	
 - 学生体育课转修保健课申请表	
 - 厦门大学在学证明
+
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
