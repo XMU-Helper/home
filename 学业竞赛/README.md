@@ -27,3 +27,5 @@
 - [中国高校计算机大赛-大数据挑战赛官网](http://bdc.saikr.com/bdc)
 - [中国高校计算机大赛-人工智能创意赛官网](http://aicontest.baidu.com/)
 - [全国大学生信息安全竞赛官网](http://ftp.ciscn.cn/home)
+
+[返回上一级](https://github.com/XMU-Helper/home) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
