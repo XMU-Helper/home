@@ -24,3 +24,4 @@
 - 厦门大学交流生选课申请表	
 - 厦门大学公共教室借用管理规定	
 
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E6%A0%A1%E6%96%87%E4%BB%B6) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
