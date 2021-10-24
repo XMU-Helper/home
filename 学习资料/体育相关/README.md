@@ -54,6 +54,6 @@
 
 特别注意：每种特色学分每人最多只能获得1个，不能重复获取。
 
-
+[返回上一级](https://github.com/XMU-Helper/home/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) &nbsp; [返回主页](https://github.com/XMU-Helper/home)
 
 
