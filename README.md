@@ -42,9 +42,9 @@
 
 如果要下载单个文件，点击该文件，如果文件为不可预览文件，点击 Download 即可下载（或者右键点击 Download 选择 “链接另存为”）。如果文件可以预览，点击 Raw 即可下载（或者右键点击 Raw 选择 “链接另存为”）。或者将 URL (https://github.com/XMU-Helper/home/blob/main/...) 中的 blob 改为 raw）。其他方法可以参考部分 CSDN 的博客或百度。
 
-如果图片无法显示或者正常加载，可参考 [GitHub无法加载或不显示图片问题](https://www.jianshu.com/p/25e5e07b2464) 进行相关配置。如果图片还是无法显示或者正常加载，可以参考百度。
+如果图片无法显示或者正常加载，可参考 [https://gitee.com/ineo6/hosts/](https://gitee.com/ineo6/hosts/) 进行相关配置。如果图片还是无法显示或者正常加载，可以参考百度。
 - Windows 用户：打开路径 C:\Windows\System32\drivers\etc下的 hosts 文件，在最后面复制 # GitHub Start 至 # GitHub End 内容即可。
-- Mac 用户：按照该文章说法操作即可。
+- Mac 用户：按照 [https://gitee.com/ineo6/hosts/](https://gitee.com/ineo6/hosts/) 操作即可。
 
 如果项目对您有帮助，欢迎让更多的人知道。如果您有GitHub账号，希望能点击右上角的 ☆ Star，您的支持是对我们最好的鼓励~ 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
