@@ -47,7 +47,12 @@
                 <summary>创意与创新学院</summary>
                 <div>官网：https://ici.xmu.edu.cn/ 微信公众号：厦门大学创意与创新学院</div>
         </details>    
+        <details>
+                <summary>电影学院</summary>
+                <div>官网：https://film.xmu.edu.cn/ 微信公众号：厦门大学电影学院</div>
+        </details>    
 </details>
+
 
 <details>
         <summary>社会科学学部：https://www.xmu.edu.cn/xbyx/shkxxb.htm</summary>
@@ -119,12 +124,11 @@
                 <div>官网：https://brri.xmu.edu.cn/ </div>       
         </details>
 </details>
-
 <details>
         <summary>自然科学学部：https://www.xmu.edu.cn/xbyx/zrkxxb.htm</summary>
         <details>
                 <summary>数学科学学院</summary>
-                <div>官网：http://math.xmu.edu.cn/ </div>
+                <div>官网：http://math.xmu.edu.cn/ 微信公众号：厦大数院宣传中心</div> 
         </details>
         <details>
                 <summary>物理科学与技术学院</summary>
@@ -136,6 +140,7 @@
                 <div>官网：https://cflc.xmu.edu.cn/ 微信公众号：厦门大学化院梦飞扬</div>
         </details>
 </details>
+
 
 <details>
         <summary>工程技术学部：https://www.xmu.edu.cn/xbyx/gcjsxb.htm</summary>
@@ -157,7 +162,7 @@
         </details>
         <details>
                 <summary>航空航天学院</summary>
-                <div>官网：http://aerospace.xmu.edu.cn/ 微信公众号：厦门大学航空航天学院</div>
+                <div>官网：http://aerospace.xmu.edu.cn/ 微信公众号：厦门大学航空航天学院、航研万象</div>
         </details>
         <details>
                 <summary>电子科学与技术学院</summary>
