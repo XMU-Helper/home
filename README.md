@@ -12,7 +12,7 @@
 
 部分内容参见知乎专栏：[厦门大学攻略大全](https://www.zhihu.com/column/c_1386035968697307136)
 
-**注：公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。** 关于密码设置的建议，可参考[密码.md](https://github.com/XMU-Helper/home/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)。学校官方的各个平台参见[各学院网站汇总](https://github.com/XMU-Helper/home/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
+**注：部分内容可能已过时，请访问学校最新的相关网站，阅读最新的相关文件和通知。公众号厦大助手和南光餐厅为校外营销号，与本项目无关，请各位同学注意保护学号、密码等个人信息。** 关于密码设置的建议，可参考[密码.md](https://github.com/XMU-Helper/home/blob/main/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9/%E5%AF%86%E7%A0%81.md)。学校官方的各个平台参见[各学院网站汇总](https://github.com/XMU-Helper/home/tree/main/%E5%90%84%E5%AD%A6%E9%99%A2%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB)。
 
 ## 目录
 
@@ -54,10 +54,9 @@
 
 - GitHub：[Issues](https://github.com/XMU-Helper/home/issues) 留言
 - 知乎：[cfzalmighty](https://www.zhihu.com/people/cfzalmighty) 私信
-- Email: rogerchen@stu.xmu.edu.cn
 - 有qq和微信的朋友可以直接私信
 
-如果您认为本仓库的一些文件侵犯了您的权益，请在 [Issues](https://github.com/XMU-Helper/home/issues) 下指出或[邮件联系我们](rogerchen@stu.xmu.edu.cn)，我们将会从仓库中彻底清除这些文件并道歉。
+如果您认为本仓库的一些文件侵犯了您的权益，请在 [Issues](https://github.com/XMU-Helper/home/issues) 下指出，我们将会从仓库中彻底清除这些文件并道歉。
 
 ## 平台说明
 
