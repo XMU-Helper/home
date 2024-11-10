@@ -1,6 +1,6 @@
 # XMU-Helper Homepage
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/XMU-Helper)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rogerchenfz/XMU-Helper)
 [![](https://img.shields.io/github/watchers/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/watchers)
 [![](https://img.shields.io/github/stars/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/stargazers)
 [![](https://img.shields.io/github/forks/rogerchenfz/XMU-Helper.svg?style=flat)](https://github.com/rogerchenfz/XMU-Helper/network/members)
