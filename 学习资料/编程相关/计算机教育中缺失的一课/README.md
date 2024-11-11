@@ -35,10 +35,11 @@ https://csdiy.wiki/
 
 不要怕出错！
 
-* About git：<https://docs.github.com/en/get-started/using-git/about-git>
-* git小游戏：<https://oschina.gitee.io/learn-git-branching/>
-* progit-cn：<https://www.progit.cn/> （要了解 Git 背后原理的可以好好看看这个, git 本质上是一个文档数据库）
+* About git: <https://docs.github.com/en/get-started/using-git/about-git>
+* git小游戏: <https://oschina.gitee.io/learn-git-branching/>
+* progit-cn: <https://www.progit.cn/> （要了解 Git 背后原理的可以好好看看这个, git 本质上是一个文档数据库）
 * faster-git: <https://github.com/datawhalechina/faster-git>
+* Git使用教程，中文CSDN: <https://blog.csdn.net/u011535541/article/details/83379151>
 
 
 
