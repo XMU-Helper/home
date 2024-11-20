@@ -11,8 +11,8 @@
 # 学习资源
 
 ## CS自学指南
-对计算机系同学很有帮助，很推荐认真读一下，对照里面的内容自己挑选想要学习的内容。
-https://csdiy.wiki/
++ 对计算机系同学很有帮助，很推荐认真读一下，对照里面的内容自己挑选想要学习的内容。[指南链接](https://csdiy.wiki/).
++ 面向CS爱好者的wiki，详细介绍了CS学习路线、内容、心得分享等。[语雀文档链接](https://www.yuque.com/0xffff.one/cs-learning), [站点链接](https://wiki.0xffff.one/about).
 
 ## Linux Shell
 
